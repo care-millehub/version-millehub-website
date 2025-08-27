@@ -1,6 +1,10 @@
 {
     "versions": [
         {
+            "name": "Versi 1.10.8",
+            "downloadUrl": "https://github.com/care-millehub/version-millehub-website/releases/download/v1.10.8/pos-1.10.8.exe"
+        },
+        {
             "name": "Versi 1.10.6",
             "downloadUrl": "https://github.com/care-millehub/version-millehub-website/releases/download/v1.10.6/pos-1.10.6.exe"
         }
