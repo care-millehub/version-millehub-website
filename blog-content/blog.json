@@ -1,6 +1,7 @@
 [
     {
         "slug": "sports",
+        "dataCategory" : "sports",
         "title": "Blog test title",
         "summary": "testing pembuatan blog dengan github",
         "author": "Admin",
@@ -8,7 +9,8 @@
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     },
     {
-    "slug": "artikel-kedua",
+    "slug": "politics",
+    "dataCategory" : "politics",
     "title": "Judul Artikel Kedua",
     "summary": "Ini contoh artikel kedua di blog.",
     "author": "Admin",
