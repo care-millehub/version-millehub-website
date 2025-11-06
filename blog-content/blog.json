@@ -15,7 +15,7 @@
         "summary": "Ini contoh artikel kedua di blog.",
         "author": "Admin",
         "date": "2025-07-12",
-        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
     },
     {
         "slug": "Judul Artikel ketiga",
@@ -51,13 +51,31 @@
         "summary": "Ini contoh artikel ketiga di blog test test test test test test test.",
         "author": "Admin",
         "date": "2025-07-12",
-        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
     },
     {
         "slug": "tujuh",
         "dataCategory" : "entertainment",
         "title": "tujuh",
         "summary": "Ini contoh artikel ketiga di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "delapan",
+        "dataCategory" : "entertainment",
+        "title": "delapan",
+        "summary": "Ini contoh artikel delapan di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "sembilan",
+        "dataCategory" : "politics",
+        "title": "sembilan",
+        "summary": "Ini contoh artikel sembilan di blog test test test test test test test.",
         "author": "Admin",
         "date": "2025-07-12",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
