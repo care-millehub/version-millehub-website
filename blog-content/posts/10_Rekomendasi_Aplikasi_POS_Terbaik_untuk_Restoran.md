@@ -1,6 +1,4 @@
 
----
-
 Pernahkah Anda mengalami antrean tak beraturan di jam sibuk, pesanan yang salah masuk dapur, atau stok bahan habis? Situasi ini tidak hanya membuat pelanggan kecewa, tetapi juga berpotensi merugikan pemilik bisnis F&B (Food and Beverages). Tantangan operasional seperti ini sering muncul jika manajemen sebuah bisnis F&B belum dijalankan secara optimal.
 
 Untuk menjawab tantangan tersebut, pemilik bisnis F&B perlu mengandalkan **Sistem ERP (Enterprise Resource Planning)**, yaitu sistem terpadu yang mampu mengelola seluruh kebutuhan operasional bisnis — mulai dari pengelolaan transaksi, manajemen stok, akuntansi, hingga sumber daya manusia.  
@@ -36,8 +34,6 @@ Untuk membantu Anda menentukan pilihan, berikut **10 aplikasi POS terbaik untuk 
 - **Loyalty Program & CRM** – Retensi pelanggan yang efisien.  
 - **Laporan Real-Time** – Insight bisnis untuk keputusan cepat.
 
----
-
 ## 2. Toast POS
 
 **Toast POS** dikenal secara global berkat fitur **Kitchen Display System (KDS)** yang mempercepat alur kerja dapur.
@@ -48,7 +44,6 @@ Untuk membantu Anda menentukan pilihan, berikut **10 aplikasi POS terbaik untuk 
 - Laporan real-time  
 - Self-order kiosk  
 
----
 
 ## 3. Square POS
 
@@ -60,7 +55,6 @@ Untuk membantu Anda menentukan pilihan, berikut **10 aplikasi POS terbaik untuk 
 - Pembayaran digital (QRIS, kartu, e-wallet)  
 - Integrasi akuntansi dan e-commerce  
 
----
 
 ## 4. Lightspeed POS
 
@@ -72,7 +66,6 @@ Cocok untuk restoran dengan banyak cabang berkat fitur **multi-outlet management
 - CRM dasar  
 - Integrasi omnichannel  
 
----
 
 ## 5. iReap POS
 
@@ -84,7 +77,6 @@ Cocok untuk restoran dengan banyak cabang berkat fitur **multi-outlet management
 - Mode offline  
 - Tampilan ramah pengguna  
 
----
 
 ## 6. Olsera POS
 
@@ -96,7 +88,6 @@ Cocok untuk restoran dengan banyak cabang berkat fitur **multi-outlet management
 - Multi-outlet support  
 - Laporan real-time  
 
----
 
 ## 7. Loyverse POS
 
@@ -108,7 +99,6 @@ Menawarkan **loyalty program** sederhana untuk meningkatkan retensi pelanggan.
 - Dukungan multi-device  
 - Laporan penjualan dasar  
 
----
 
 ## 8. Moka POS
 
@@ -120,7 +110,6 @@ Menawarkan **loyalty program** sederhana untuk meningkatkan retensi pelanggan.
 - Manajemen produk & promosi  
 - Integrasi ERP dasar  
 
----
 
 ## 9. Majoo POS
 
@@ -132,7 +121,6 @@ Dilengkapi CRM terintegrasi untuk memahami perilaku pelanggan.
 - Stok otomatis  
 - Integrasi bisnis untuk UKM  
 
----
 
 ## 10. Qasir POS
 
