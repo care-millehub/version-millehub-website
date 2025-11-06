@@ -6,5 +6,13 @@
         "author": "Admin",
         "date": "2025-06-11",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+    "slug": "artikel-kedua",
+    "title": "Judul Artikel Kedua",
+    "summary": "Ini contoh artikel kedua di blog.",
+    "author": "Admin",
+    "date": "2025-07-12",
+    "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     }
 ]
