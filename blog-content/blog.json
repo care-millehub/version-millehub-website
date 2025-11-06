@@ -241,5 +241,23 @@
         "author": "Admin",
         "date": "2025-07-12",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "duapuluh delapan",
+        "dataCategory" : "entertainment",
+        "title": "duapuluh delapan",
+        "summary": "Ini contoh artikel duapuluh delapan di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "duapuluh sembilan",
+        "dataCategory" : "politics",
+        "title": "duapuluh sembilan",
+        "summary": "Ini contoh artikel duapuluh sembilan di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     }
 ]
