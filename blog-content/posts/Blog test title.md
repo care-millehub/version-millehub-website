@@ -156,7 +156,7 @@ Berdasarkan analisis dari 10 aplikasi POS di pasar Indonesia, masing-masing memi
 
 Bayangkan restoran Anda sedang ramai: antrean panjang, pesanan tertukar, stok habis — semua bisa dihindari dengan **Mille POS**.  
 
-Pelanggan dapat memesan, reservasi, hingga membayar secara mandiri. Pesanan langsung terkirim ke dapur, dan pemilik bisnis bisa memantau omzet, menu favorit, serta stok bahan secara **real-time** melalui dashboard.
+Pelanggan dapat memesan, reservasi, hingga membayar secara mandiri. Pesanan langsung terkirim ke dapur, dan pemilik bisnis bisa memantau omzet, menu favorit, serta stok bahan secara *real-time* _melalui_ dashboard.
 
 Mille POS sudah **terintegrasi dengan sistem ERP Mille**, sehingga pengelolaan karyawan dan evaluasi performa berjalan otomatis dan transparan.
 
