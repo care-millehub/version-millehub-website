@@ -25,5 +25,14 @@
         "author": "Admin",
         "date": "2025-07-12",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "entertainment",
+        "dataCategory" : "entertainment",
+        "title": "Judul Artikel ke empat",
+        "summary": "Ini contoh artikel ke empat di blog test test test test test test test. terst te stfdtaffdtaffsdtfafdtfatsfdtfatsfdtfas",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     }
 ]
