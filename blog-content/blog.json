@@ -115,5 +115,95 @@
         "author": "Admin",
         "date": "2025-07-12",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "Blog test empatbelas",
+        "dataCategory" : "sports",
+        "title": "Blog test empatbelas",
+        "summary": "testing empatbelas blog dengan github",
+        "author": "Admin",
+        "date": "2025-06-11",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "limabelas",
+        "dataCategory" : "entertainment",
+        "title": "limabelas",
+        "summary": "Ini contoh artikel limabelas di blog.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "enambelas",
+        "dataCategory" : "politics",
+        "title": "enambelas",
+        "summary": "Ini contoh artikel enambelas di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "tujuhbelas",
+        "dataCategory" : "entertainment",
+        "title": "tujuhbelas",
+        "summary": "Ini contoh artikel tujuhbelas di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "delapanbelas",
+        "dataCategory" : "entertainment",
+        "title": "delapanbelas",
+        "summary": "Ini contoh artikel delapanbelas di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "sembilanbelas",
+        "dataCategory" : "politics",
+        "title": "sembilanbelas",
+        "summary": "Ini contoh artikel sembilanbelas di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "duapuluh",
+        "dataCategory" : "politics",
+        "title": "duapuluh",
+        "summary": "Ini contoh artikel duapuluh di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "duapuluh satu",
+        "dataCategory" : "entertainment",
+        "title": "duapuluh satu",
+        "summary": "Ini contoh artikel duapuluh satu di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "duapuluh dua",
+        "dataCategory" : "entertainment",
+        "title": "duapuluh dua",
+        "summary": "Ini contoh artikel duapuluh dua di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "duapuluh tiga",
+        "dataCategory" : "politics",
+        "title": "duapuluh tiga",
+        "summary": "Ini contoh artikel duapuluh tiga di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     }
 ]
