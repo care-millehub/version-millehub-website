@@ -1,6 +1,6 @@
 [
     {
-        "slug": "sports",
+        "slug": "Blog test title",
         "dataCategory" : "sports",
         "title": "Blog test title",
         "summary": "testing pembuatan blog dengan github",
@@ -9,7 +9,7 @@
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     },
     {
-        "slug": "politics",
+        "slug": "Judul Artikel Kedua",
         "dataCategory" : "politics",
         "title": "Judul Artikel Kedua",
         "summary": "Ini contoh artikel kedua di blog.",
@@ -18,9 +18,45 @@
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     },
     {
-        "slug": "politics",
-        "dataCategory" : "politics",
+        "slug": "Judul Artikel ketiga",
+        "dataCategory" : "entertainment",
         "title": "Judul Artikel ketiga",
+        "summary": "Ini contoh artikel ketiga di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "Blog test empat",
+        "dataCategory" : "sports",
+        "title": "Blog test empat",
+        "summary": "testing pembuatan blog dengan github",
+        "author": "Admin",
+        "date": "2025-06-11",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "lima",
+        "dataCategory" : "entertainment",
+        "title": "lima",
+        "summary": "Ini contoh artikel kedua di blog.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "enam",
+        "dataCategory" : "politics",
+        "title": "enam",
+        "summary": "Ini contoh artikel ketiga di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "tujuh",
+        "dataCategory" : "entertainment",
+        "title": "tujuh",
         "summary": "Ini contoh artikel ketiga di blog test test test test test test test.",
         "author": "Admin",
         "date": "2025-07-12",
