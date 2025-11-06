@@ -79,5 +79,41 @@
         "author": "Admin",
         "date": "2025-07-12",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "sepuluh",
+        "dataCategory" : "politics",
+        "title": "sepuluh",
+        "summary": "Ini contoh artikel sepuluh di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "sebelas",
+        "dataCategory" : "entertainment",
+        "title": "sebelas",
+        "summary": "Ini contoh artikel sebelas di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "duabelas",
+        "dataCategory" : "entertainment",
+        "title": "duabelas",
+        "summary": "Ini contoh artikel duabelas di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "tigabelas",
+        "dataCategory" : "politics",
+        "title": "tigabelas",
+        "summary": "Ini contoh artikel tigabelas di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     }
 ]
