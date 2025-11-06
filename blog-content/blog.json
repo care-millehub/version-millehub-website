@@ -218,7 +218,25 @@
     {
         "slug": "duapuluh lima",
         "dataCategory" : "politics",
-        "title": "duapuluh tiga",
+        "title": "duapuluh lima",
+        "summary": "Ini contoh artikel duapuluh lima di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    },
+    {
+        "slug": "duapuluh enam",
+        "dataCategory" : "entertainment",
+        "title": "duapuluh enam",
+        "summary": "Ini contoh artikel duapuluh enam di blog test test test test test test test.",
+        "author": "Admin",
+        "date": "2025-07-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
+    },
+    {
+        "slug": "duapuluh tuju",
+        "dataCategory" : "politics",
+        "title": "duapuluh tuju",
         "summary": "Ini contoh artikel duapuluh lima di blog test test test test test test test.",
         "author": "Admin",
         "date": "2025-07-12",
