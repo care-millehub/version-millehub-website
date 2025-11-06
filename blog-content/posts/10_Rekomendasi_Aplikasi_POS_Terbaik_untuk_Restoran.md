@@ -1,7 +1,3 @@
-# 10 Rekomendasi Aplikasi POS Terbaik untuk Restoran
-
-**Oleh:** Linggi Malian  
-**Tanggal:** 26 September 2025  
 
 ---
 
