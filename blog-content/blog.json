@@ -1,0 +1,10 @@
+[
+    {
+        "slug": "sports",
+        "title": "Blog test title",
+        "summary": "testing pembuatan blog dengan github",
+        "author": "Admin",
+        "date": "2025-06-11",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
+    }
+]
