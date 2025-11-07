@@ -7,7 +7,7 @@ Salah satu komponen penting dari sistem ERP adalah **aplikasi POS (Point of Sale
 
 Dengan demikian, pemilik usaha F&B dapat meningkatkan efisiensi, mengurangi risiko kesalahan, serta menciptakan pengalaman pelanggan yang lebih baik.
 
-**Baca juga artikel menarik lain nya[judul artikel lain nya](../../html/blog/blog-details.html?post=blog-details.html?post=10_Rekomendasi_Aplikasi_POS_Terbaik_untuk_Restoran)**
+**Baca juga artikel menarik lain nya[judul artikel lain nya](../../html/blog/blog-details.html?post=10_Rekomendasi_Aplikasi_POS_Terbaik_untuk_Restoran)**
 
 ## Mengapa POS Penting untuk Restoran Modern?
 

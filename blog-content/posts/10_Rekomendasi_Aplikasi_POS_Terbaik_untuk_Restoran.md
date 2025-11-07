@@ -132,7 +132,7 @@ Cocok untuk usaha kecil yang butuh sistem sederhana namun efektif.
 - Antarmuka mudah digunakan  
 - Inventaris dasar 
 
-Baca juga: **[blablablabla](blog-details.html?post=judul_artikel_kedua)**
+Baca juga: **[blablablabla](../../html/blog/blog-details.html?post=judul_artikel_kedua)**
 
 ## Kesimpulan
 
