@@ -9,7 +9,7 @@
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     },
     {
-        "slug": "Judul Artikel Kedua",
+        "slug": "judul_artikel_kedua",
         "dataCategory" : "politics",
         "title": "Judul Artikel Kedua",
         "summary": "Ini contoh artikel kedua di blog.",

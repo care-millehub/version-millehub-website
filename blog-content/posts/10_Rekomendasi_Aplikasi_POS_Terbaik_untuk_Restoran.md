@@ -1,5 +1,5 @@
-
-Pernahkah Anda mengalami antrean tak beraturan di jam sibuk, pesanan yang salah masuk dapur, atau stok bahan habis? Situasi ini tidak hanya membuat pelanggan kecewa, tetapi juga berpotensi merugikan pemilik bisnis F&B (Food and Beverages). Tantangan operasional seperti ini sering muncul jika manajemen sebuah bisnis F&B belum dijalankan secara optimal.
+Pernahkah Anda mengalami antrean tak beraturan di jam sibuk, pesanan yang salah masuk dapur, atau stok bahan habis? Situasi ini tidak hanya membuat pelanggan
+kecewa, tetapi juga berpotensi merugikan pemilik bisnis F&B (Food and Beverages). Tantangan operasional seperti ini sering muncul jika manajemen sebuah bisnis F&B belum dijalankan secara optimal.
 
 Untuk menjawab tantangan tersebut, pemilik bisnis F&B perlu mengandalkan **Sistem ERP (Enterprise Resource Planning)**, yaitu sistem terpadu yang mampu mengelola seluruh kebutuhan operasional bisnis — mulai dari pengelolaan transaksi, manajemen stok, akuntansi, hingga sumber daya manusia.  
 
@@ -130,9 +130,9 @@ Cocok untuk usaha kecil yang butuh sistem sederhana namun efektif.
 - Manajemen karyawan dasar  
 - Pembayaran digital  
 - Antarmuka mudah digunakan  
-- Inventaris dasar  
+- Inventaris dasar 
 
----
+Baca juga: **[blablablabla](blog-details.html?post=judul_artikel_kedua)**
 
 ## Kesimpulan
 
