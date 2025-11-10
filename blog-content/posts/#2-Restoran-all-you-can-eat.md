@@ -1,9 +1,6 @@
 
 # Restoran All You Can Eat (AYCE): Penuh Peluang Sekaligus Risiko
 
-*Oleh Mega Febriyanti – 27 September 2025*
-
----
 
 > “Mengapa restoran *All You Can Eat* sering penuh, bahkan di hari kerja?”
 

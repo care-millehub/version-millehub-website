@@ -9,12 +9,12 @@
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-customer.webp"
     },
     {
-        "slug": "judul_artikel_kedua",
+        "slug": "#2-Restoran-all-you-can-eat",
         "dataCategory" : "politics",
-        "title": "Judul Artikel Kedua",
+        "title": "Restoran-all-you-can-eat",
         "summary": "Ini contoh artikel kedua di blog.",
-        "author": "Admin",
-        "date": "2025-07-12",
+        "author": "Mega Febriyanti",
+        "date": "27 September 2025",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/bakery-store.webp"
     }
 ]
