@@ -1,4 +1,4 @@
-![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp)
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp){ width=200 height=100 }
 > “Mengapa restoran *All You Can Eat* sering penuh, bahkan di hari kerja?”
 
 Hal ini terjadi karena konsep *All You Can Eat (AYCE)* sedang menjadi primadona di industri kuliner. Dengan satu harga, pelanggan bisa menikmati berbagai menu sepuasnya. Tak heran, konsep ini selalu berhasil menarik antrean panjang dan jadi bahan viral di media sosial.
