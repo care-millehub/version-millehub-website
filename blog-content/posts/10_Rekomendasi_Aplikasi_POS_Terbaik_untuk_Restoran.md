@@ -132,8 +132,6 @@ Cocok untuk usaha kecil yang butuh sistem sederhana namun efektif.
 - Antarmuka mudah digunakan  
 - Inventaris dasar 
 
-Baca juga: **[blablablabla](../../html/blog/blog-details.html?post=judul_artikel_kedua)**
-
 ## Kesimpulan
 
 Berdasarkan analisis dari 10 aplikasi POS di pasar Indonesia, masing-masing memiliki keunggulan tersendiri. Namun, jika Anda mencari **solusi paling lengkap dan handal** dengan integrasi penuh antara **POS dan sistem ERP**, maka **Mille** adalah jawabannya.
