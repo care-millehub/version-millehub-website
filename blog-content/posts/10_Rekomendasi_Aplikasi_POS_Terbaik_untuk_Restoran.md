@@ -1,4 +1,4 @@
-![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1-10_Rekomendasi_POS.webp)
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1-10_Rekomendasi_POS.webp){width=200 height=100 }
 
 Pernahkah Anda mengalami antrean tak beraturan di jam sibuk, pesanan yang salah masuk dapur, atau stok bahan habis? Situasi ini tidak hanya membuat pelanggan
 kecewa, tetapi juga berpotensi merugikan pemilik bisnis F&B (Food and Beverages). Tantangan operasional seperti ini sering muncul jika manajemen sebuah bisnis F&B belum dijalankan secara optimal.
