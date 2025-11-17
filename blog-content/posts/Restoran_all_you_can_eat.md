@@ -27,9 +27,9 @@ Jika puas dengan pelayanan dan variasi menu, pelanggan akan kembali lagi bersama
 
 ## Data Pendukung
 
-- Survei *Populix* (Maret 2024) terhadap **2.225 responden** menunjukkan **20,5% memilih Hanamasa** sebagai restoran AYCE favorit.  
-- Survei yang sama juga menunjukkan **46,2% responden menghabiskan waktu 1–2 jam** di restoran AYCE — artinya durasi makan adalah faktor penting (*Populix*).  
-- Studi di Bandung mencatat restoran yang menerapkan strategi AYCE melayani rata-rata **500 pelanggan di hari biasa** dan **150 pelanggan di akhir pekan** (_Atlantis Press_).
+- Survei **[_Populix_](https://info.populix.co/articles/all-you-can-eat/)** (Maret 2024) terhadap **2.225 responden** menunjukkan **20,5% memilih Hanamasa** sebagai restoran AYCE favorit.  
+- Survei yang sama juga menunjukkan **46,2% responden menghabiskan waktu 1–2 jam** di restoran AYCE — artinya durasi makan adalah faktor penting **[_(Populix)_](https://info.populix.co/articles/all-you-can-eat/)**.  
+- Studi di Bandung mencatat restoran yang menerapkan strategi AYCE melayani rata-rata **500 pelanggan di hari biasa** dan **150 pelanggan di akhir pekan** **[_(Atlantis Press)_](https://www.atlantis-press.com/proceedings/gcbme-23/126001076)**.
 
 ---
 
@@ -39,7 +39,7 @@ Di balik keramaiannya, AYCE membawa tantangan besar yang bisa berdampak langsung
 
 ### 1. Overstock & Food Waste  
 Tanpa manajemen stok yang baik, bahan bisa terbuang sia-sia.  
-Penelitian di AYCE Bandung mencatat rata-rata **limbah mencapai 0,74 kg per konsumen per hari**, dan **55,74% dari limbah tersebut adalah sisa makanan** (*ResearchGate*).  
+Penelitian di AYCE Bandung mencatat rata-rata **limbah mencapai 0,74 kg per konsumen per hari**, dan **55,74% dari limbah tersebut adalah sisa makanan** **[(_ResearchGate_)](https://www.researchgate.net/publication/390665706_Characterization_of_solid_waste_generated_from_all-you-can-eat_restaurants_in_Bandung_City_Indonesia_and_proposal_for_its_management).**  
 
 Jika bahan baku mahal seperti daging, *seafood*, atau sayur segar ikut terbuang, kerugiannya bisa sangat signifikan.
 
@@ -76,20 +76,20 @@ Agar bisnis AYCE benar-benar menjadi mesin omzet, berikut langkah-langkah pentin
 
 Di sinilah **[Mille](https://millehub.com)** hadir untuk membantu pemilik restoran AYCE mengelola bisnis secara efisien dan minim risiko.
 
-### 🔹 Prediksi Menu Favorit  
+### 🔹 **[Prediksi Menu Favorit](https://millehub.com/html/id/point-of-sale.html)**  
 *Mille* menganalisis data penjualan untuk mengetahui menu yang paling sering dipilih pelanggan, sehingga stok bisa disiapkan dengan lebih akurat.
 
 ### 🔹 **[Manajemen Stok Otomatis](https://millehub.com/html/id/inventory.html)** 
 Setiap transaksi langsung memperbarui bahan baku — mencegah *overstock* maupun kehabisan bahan.
 
-### 🔹 Reservasi & Manajemen Meja  
+### 🔹 **[Reservasi & Manajemen Meja](https://millehub.com/html/id/table-management.html)** 
 Atur alur tamu dan waktu makan dengan sistem yang rapi, mengurangi antrean panjang.  
 Misalnya, saat restoran penuh, sistem *Mille* bisa otomatis mengatur daftar tunggu pelanggan sehingga pengalaman makan tetap nyaman.
 
-### 🔹 Loyalty & Promo Personalisasi  
+### 🔹 **[Loyalty & Promo Personalisasi](https://millehub.com/html/id/customer.html)** 
 Pelanggan setia AYCE bisa diajak kembali dengan *reward* eksklusif, menciptakan tingkat *repeat order* yang lebih tinggi.
 
-### 🔹 Laporan Real-Time  
+### 🔹 **[Laporan Real-Time](https://millehub.com/html/id/inventory.html)**
 Pemilik dapat memantau omzet, efisiensi stok, hingga kinerja cabang langsung dari *dashboard* **[Mille ERP](https://millehub.com)**.
 
 ---
