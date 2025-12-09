@@ -5,7 +5,7 @@
         "title": "10 Rekomendasi Aplikasi POS Terbaik untuk Restoran",
         "summary": "Temukan 10 aplikasi POS terbaik untuk restoran yang bisa meningkatkan efisiensi, integrasi ERP, dan pengalaman pelanggan. Lengkap dengan fitur unggulan setiap aplikasi!",
         "author": "Linggi",
-        "date": "26 September 2025",
+        "date": "17 November 2025",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1-10_Rekomendasi_POS.webp"
     },
     {
@@ -14,7 +14,16 @@
         "title": "Restoran All You Can Eat (AYCE): Penuh Peluang Sekaligus Risiko",
         "summary": "Pelajari strategi bisnis AYCE, tantangannya, dan bagaimana sistem Mille membantu restoran AYCE tetap efisien dan menguntungkan.",
         "author": "Mega Febriyanti",
-        "date": "27 September 2025",
+        "date": "17 November 2025",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp"
+    },
+    {
+        "slug": "3_QR_Order_&_Self-Checkout",
+        "dataCategory" : "tech & future trend",
+        "title": "QR Order & Self-Checkout: Masa Depan Quick Service di Indonesia",
+        "summary": "Teknologi QR Order dan Self-Checkout menjadi solusi utama dalam meningkatkan efisiensi, mengurangi antrian, dan menciptakan pengalaman pelanggan modern di industri quick service.",
+        "author": "Mega Febriyanti",
+        "date": "9 Desember 2025",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/3-QR-order-&-self-checkout.webp"
     }
 ]
