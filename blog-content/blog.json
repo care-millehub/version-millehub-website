@@ -18,12 +18,21 @@
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp"
     },
     {
-        "slug": "3_QR_Order_&_Self-Checkout",
+        "slug": "QR_Order_&_Self-Checkout",
         "dataCategory" : "tech & future trend",
         "title": "QR Order & Self-Checkout: Masa Depan Quick Service di Indonesia",
         "summary": "Teknologi QR Order dan Self-Checkout menjadi solusi utama dalam meningkatkan efisiensi, mengurangi antrian, dan menciptakan pengalaman pelanggan modern di industri quick service.",
         "author": "Mega Febriyanti",
         "date": "2025-12-09",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/3-QR-order-&-self-checkout.webp"
+    },
+    {
+        "slug": "5_tantangan_pebisnis_baru",
+        "dataCategory" : "tips & trick",
+        "title": "5 Tantangan Pebisnis Baru dan Cara Mengatasinya",
+        "summary": "TPelajari lima tantangan utama yang dihadapi pebisnis baru dan bagaimana strategi serta teknologi seperti Mille POS & ERP dapat membantu mengatasinya.",
+        "author": "Linggi",
+        "date": "2025-12-09",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/4_tantangan_pebisnis_baru.webp"
     }
 ]
