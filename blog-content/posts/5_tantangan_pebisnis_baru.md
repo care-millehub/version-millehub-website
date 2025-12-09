@@ -2,7 +2,7 @@
 
 >“Apakah Anda sedang merintis bisnis dan merasa banyak hal berjalan tidak sesuai rencana?”  
 
-Banyak pebisnis yang mengalami tantangan ini ketika baru memulai usaha. Selain membutuhkan keberanian, mereka juga memerlukan strategi, sistem, dan manajemen yang matang. Tantangan ini sejalan dengan statistik yang dilansir dari [_Insimen.com_](https://insimen.com/en/bisnis/2025/1058/analisis-kegagalan-umkm-di-tahun-pertama/) yaitu sekitar **50% UMKM di Indonesia mengalami gulung tikar di tahun pertama operasional**. Di level global, data dari survei [_Shopify_](https://www.shopify.com/id/blog/percentage-of-businesses-that-fail) kelangsungan usaha juga menunjukkan sekitar **20–23% usaha kecil tutup di tahun pertama**, dan hingga **50% tidak bertahan sampai tahun ke-5**. Realita ini cukup keras, maka penting bagi setiap pebisnis baru untuk memahami tantangan awal dan mempersiapkan strategi untuk melewatinya.
+<p align="justify">Banyak pebisnis yang mengalami tantangan ini ketika baru memulai usaha. Selain membutuhkan keberanian, mereka juga memerlukan strategi, sistem, dan manajemen yang matang. Tantangan ini sejalan dengan statistik yang dilansir dari [_Insimen.com_](https://insimen.com/en/bisnis/2025/1058/analisis-kegagalan-umkm-di-tahun-pertama/) yaitu sekitar **50% UMKM di Indonesia mengalami gulung tikar di tahun pertama operasional**. Di level global, data dari survei [_Shopify_](https://www.shopify.com/id/blog/percentage-of-businesses-that-fail) kelangsungan usaha juga menunjukkan sekitar **20–23% usaha kecil tutup di tahun pertama**, dan hingga **50% tidak bertahan sampai tahun ke-5**. Realita ini cukup keras, maka penting bagi setiap pebisnis baru untuk memahami tantangan awal dan mempersiapkan strategi untuk melewatinya.</p>
 
 ---
 
