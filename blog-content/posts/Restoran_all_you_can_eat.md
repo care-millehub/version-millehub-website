@@ -1,9 +1,9 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp)
-<font color="gray">*Sumber: FreePik*</font>
+<font color="gray" size="2">*Sumber: FreePik*</font>
 
-><p align="center"> “Mengapa restoran *All You Can Eat* sering penuh, bahkan di hari kerja?”</p>
+>“Mengapa restoran *All You Can Eat* sering penuh, bahkan di hari kerja?”
 
-<font color="red">Hal ini terjadi karena konsep *All You Can Eat (AYCE)* sedang menjadi primadona di industri kuliner. Dengan satu harga, pelanggan bisa menikmati berbagai menu sepuasnya. Tak heran, konsep ini selalu berhasil menarik antrean panjang dan jadi bahan viral di media sosial.</font>
+Hal ini terjadi karena konsep *All You Can Eat (AYCE)* sedang menjadi primadona di industri kuliner. Dengan satu harga, pelanggan bisa menikmati berbagai menu sepuasnya. Tak heran, konsep ini selalu berhasil menarik antrean panjang dan jadi bahan viral di media sosial.
 
 Namun, di balik peluang omzet besar, *AYCE* menyimpan risiko yang tak bisa dianggap remeh. Salah perhitungan stok, durasi makan yang terlalu lama, hingga biaya operasional yang tinggi bisa membuat bisnis justru merugi.  
 
