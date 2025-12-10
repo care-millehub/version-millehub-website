@@ -1,5 +1,5 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp)
-*Sumber: FreePik*
+<font color="gray">*Sumber: FreePik*</font>
 
 ><p align="center"> “Mengapa restoran *All You Can Eat* sering penuh, bahkan di hari kerja?”</p>
 
