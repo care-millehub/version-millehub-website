@@ -3,7 +3,7 @@
 
 ><p align="center"> “Mengapa restoran *All You Can Eat* sering penuh, bahkan di hari kerja?”</p>
 
-Hal ini terjadi karena konsep *All You Can Eat (AYCE)* sedang menjadi primadona di industri kuliner. Dengan satu harga, pelanggan bisa menikmati berbagai menu sepuasnya. Tak heran, konsep ini selalu berhasil menarik antrean panjang dan jadi bahan viral di media sosial.
+<font color="red">Hal ini terjadi karena konsep *All You Can Eat (AYCE)* sedang menjadi primadona di industri kuliner. Dengan satu harga, pelanggan bisa menikmati berbagai menu sepuasnya. Tak heran, konsep ini selalu berhasil menarik antrean panjang dan jadi bahan viral di media sosial.</font>
 
 Namun, di balik peluang omzet besar, *AYCE* menyimpan risiko yang tak bisa dianggap remeh. Salah perhitungan stok, durasi makan yang terlalu lama, hingga biaya operasional yang tinggi bisa membuat bisnis justru merugi.  
 
