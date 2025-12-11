@@ -1,21 +1,21 @@
 [
     {
-        "slug": "10_Rekomendasi_Aplikasi_POS_Terbaik_untuk_Restoran",
+        "slug": "2026_gaya_hidup_sehat_peluang_bisnis_fnb",
         "dataCategory" : "business insight",
-        "title": "10 Rekomendasi Aplikasi POS Terbaik untuk Restoran",
-        "summary": "Temukan 10 aplikasi POS terbaik untuk restoran yang bisa meningkatkan efisiensi, integrasi ERP, dan pengalaman pelanggan. Lengkap dengan fitur unggulan setiap aplikasi!",
-        "author": "Linggi",
-        "date": "17 November 2025",
-        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1-10_Rekomendasi_POS.webp"
-    },
-    {
-        "slug": "Restoran_all_you_can_eat",
-        "dataCategory" : "business insight",
-        "title": "Restoran All You Can Eat (AYCE): Penuh Peluang Sekaligus Risiko",
-        "summary": "Pelajari strategi bisnis AYCE, tantangannya, dan bagaimana sistem Mille membantu restoran AYCE tetap efisien dan menguntungkan.",
+        "title": "2026: Tahun Gaya Hidup Sehat dan Peluang Emas bagi Pelaku Bisnis F&B",
+        "summary": "Tren gaya hidup sehat di tahun 2026 membuka peluang besar bagi bisnis F&B. Pelajari data, insight, dan strategi berbasis teknologi.",
         "author": "Mega Febriyanti",
-        "date": "17 November 2025",
-        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp"
+        "date": "2025-12-10",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/5_2026_gaya_hidup_sehat_peluang_bisnis_fnb.webp"
+    },
+     {
+        "slug": "5_tantangan_pebisnis_baru",
+        "dataCategory" : "tips & trick",
+        "title": "5 Tantangan Pebisnis Baru dan Cara Mengatasinya",
+        "summary": "Pelajari lima tantangan utama yang dihadapi pebisnis baru dan bagaimana strategi serta teknologi seperti Mille POS & ERP dapat membantu mengatasinya.",
+        "author": "Linggi",
+        "date": "2025-12-09",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/4_tantangan_pebisnis_baru.webp"
     },
     {
         "slug": "QR_Order_dan_Self_Checkout",
@@ -26,22 +26,25 @@
         "date": "2025-12-09",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/3-QR-order-&-self-checkout.webp"
     },
-    {
-        "slug": "5_tantangan_pebisnis_baru",
-        "dataCategory" : "tips & trick",
-        "title": "5 Tantangan Pebisnis Baru dan Cara Mengatasinya",
-        "summary": "Pelajari lima tantangan utama yang dihadapi pebisnis baru dan bagaimana strategi serta teknologi seperti Mille POS & ERP dapat membantu mengatasinya.",
-        "author": "Linggi",
-        "date": "2025-12-09",
-        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/4_tantangan_pebisnis_baru.webp"
+     {
+        "slug": "Restoran_all_you_can_eat",
+        "dataCategory" : "business insight",
+        "title": "Restoran All You Can Eat (AYCE): Penuh Peluang Sekaligus Risiko",
+        "summary": "Pelajari strategi bisnis AYCE, tantangannya, dan bagaimana sistem Mille membantu restoran AYCE tetap efisien dan menguntungkan.",
+        "author": "Mega Febriyanti",
+        "date": "17 November 2025",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/2-AYCE.webp"
     },
     {
-        "slug": "2026-gaya-hidup-sehat-peluang-bisnis-fnb",
+        "slug": "10_Rekomendasi_Aplikasi_POS_Terbaik_untuk_Restoran",
         "dataCategory" : "business insight",
-        "title": "2026: Tahun Gaya Hidup Sehat dan Peluang Emas bagi Pelaku Bisnis F&B",
-        "summary": "Tren gaya hidup sehat di tahun 2026 membuka peluang besar bagi bisnis F&B. Pelajari data, insight, dan strategi berbasis teknologi.",
-        "author": "Mega Febriyanti",
-        "date": "2025-12-10",
-        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/5_2026_gaya_hidup_sehat_peluang_bisnis_fnb.webp"
+        "title": "10 Rekomendasi Aplikasi POS Terbaik untuk Restoran",
+        "summary": "Temukan 10 aplikasi POS terbaik untuk restoran yang bisa meningkatkan efisiensi, integrasi ERP, dan pengalaman pelanggan. Lengkap dengan fitur unggulan setiap aplikasi!",
+        "author": "Linggi",
+        "date": "17 November 2025",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1-10_Rekomendasi_POS.webp"
     }
+    
+   
+    
 ]
