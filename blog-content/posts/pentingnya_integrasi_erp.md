@@ -2,9 +2,6 @@
 
 >‘Apakah restoran Anda masih bergantung pada catatan manual, laporan keuangan menumpuk, atau stok dapur yang sering tidak terpantau?’
 
->[!TIP]
->Optional information to help a user be more successful.
-
 Tantangan seperti ini umum terjadi di banyak bisnis kuliner yang belum menerapkan sistem digital terpadu di era serba cepat seperti sekarang, sedangkan efisiensi operasional dan ketepatan data merupakan faktor penentu kesuksesan bisnis kuliner. Tanpa sistem yang kuat, restoran berisiko kehilangan kendali atas arus keuangan, stok, hingga performa karyawan.
 
 Untuk menjawab tantangan tersebut, banyak pelaku usaha kini mulai beralih ke sistem digital yang terintegrasi. Salah satunya adalah _Enterprise Resource Planning_ (ERP), sebuah solusi yang memungkinkan pemilik bisnis mengelola seluruh aspek operasional secara menyeluruh, mulai dari transaksi kasir, manajemen stok bahan baku, laporan keuangan, hingga pengawasan kinerja karyawan dalam satu platform yang saling terhubung dan mudah diakses kapan pun.
