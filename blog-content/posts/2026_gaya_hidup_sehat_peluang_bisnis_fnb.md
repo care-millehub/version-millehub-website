@@ -30,7 +30,7 @@ Dalam hal makanan, lebih banyak konsumen mulai mengurangi gula, memilih menu ren
 ### b. Pasar Global Makanan Sehat Tumbuh Pesat
 Segmen makanan sehat dan fungsional diperkirakan mencatat pertumbuhan **CAGR 9,4% pada 2024–2030**. [(Grand View Research)](https://databoks.katadata.co.id/en/consumer-services/statistics/02deb1e39bf23c5/what-types-of-diets-are-popular-among-indonesians-survey-results-here)
 
-Lebih luas lagi, **industri _foodservice_ global** diprediksi tumbuh dari  **USD 3,49 triliun pada 2024** menjadi **USD 6,81 triliun pada 2032**, dengan Asia Pasifik sebagai pasar terbesar.[(Fortune Business Insights)](https://www.fortunebusinessinsights.com/press-release/global-food-service-market-10708.com)
+Lebih luas lagi, **industri _foodservice_ global** diprediksi tumbuh dari  **USD 3,49 triliun pada 2024** menjadi **USD 6,81 triliun pada 2032**, dengan Asia Pasifik sebagai pasar terbesar. [(Fortune Business Insights)](https://www.fortunebusinessinsights.com/press-release/global-food-service-market-10708.com)
 
 Hal ini memastikan permintaan terhadap produk makanan sehat akan terus meningkat secara konsisten.
 
@@ -53,7 +53,7 @@ Konsep restoran sehat-cepat saji (*healthy fast-casual*) kkini menjadi salah sat
 ### **Menu Berbasis Nilai Nutrisi**
 Restoran dapat menawarkan menu sehat yang semakin diminati, seperti:
 
-- _plant-based bowl_(mangkuk berbahan nabati),  
+- _plant-based bowl_ (mangkuk berbahan nabati),  
 - menu rendah gula,  
 - _smoothie_ tinggi protein,  
 - bahan-bahan lokal sehat seperti tempe dan sayur organik,
