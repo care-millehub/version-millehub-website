@@ -21,9 +21,9 @@ Data-data ini menegaskan bahwa gaya hidup sehat bukan lagi tren sesaat. Industri
 Masyarakat di kota-kota besar semakin menjadikan kesehatan sebagai bagian dari produktivitas harian. Hasil studi menunjukkan:
 
 - **36%** responden di kota besar memulai aktivitas fisik ringan secara rutin.  
-- **35%** lainnya berolahraga setidaknya sekali seminggu. [(Jakpat Insight)](https://insight.jakpat.net/healthy-living-and-coffee-trends-in-2025.com)
+- **35%** lainnya berolahraga setidaknya sekali seminggu. [(Jakpat Insight)](https://insight.jakpat.net/healthy-living-and-coffee-trends-in-2025)
 
-Dalam hal makanan, lebih banyak konsumen mulai mengurangi gula, memilih menu rendah kalori, serta memperbanyak sayur dan buah. [(Databoks)](https://databoks.katadata.co.id/en/consumer-services/statistics/02deb1e39bf23c5/what-types-of-diets-are-popular-among-indonesians-survey-results-here.com)
+Dalam hal makanan, lebih banyak konsumen mulai mengurangi gula, memilih menu rendah kalori, serta memperbanyak sayur dan buah. [(Databoks)](https://databoks.katadata.co.id/en/consumer-services/statistics/02deb1e39bf23c5/what-types-of-diets-are-popular-among-indonesians-survey-results-here)
 
 ---
 
