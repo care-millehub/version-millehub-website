@@ -1,5 +1,23 @@
 [
     {
+        "slug": "tips-dan-rahasia-mengelola-supply-chain",
+        "dataCategory" : "tips & trick",
+        "title": "Tips dan Rahasia Mengelola Supply Chain di Central Kitchen",
+        "summary": "Panduan lengkap mengelola supply chain untuk bisnis kuliner multi-outlet dan central kitchen agar lebih efisien, terkontrol, dan berkelanjutan.",
+        "author": "Linggi",
+        "date": "2026-01-05",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/7_tips&rahasia_supply_chain.webp"
+    },
+    {
+        "slug": "bukan-yang-paling-ramai-tapi-yang-paling-bertahan",
+        "dataCategory" : "inspiration",
+        "title": "Bukan yang Paling Ramai, Tapi yang Paling Bertahan: Pelajaran dari Bisnis yang Konsisten",
+        "summary": "Refleksi tentang pentingnya konsistensi operasional dan fondasi bisnis yang rapi dibandingkan sekadar mengejar keramaian sesaat.",
+        "author": "Mega Febriyanti",
+        "date": "2026-01-05",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/8._bukan_yang_paling_ramai.webp"
+    },
+    {
         "slug": "pentingnya_integrasi_erp",
         "dataCategory" : "tech & future trend",
         "title": "Pentingnya Integrasi ERP untuk Bisnis Kuliner",
