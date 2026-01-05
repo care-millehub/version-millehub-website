@@ -14,10 +14,9 @@ Perbedaan antara kedua jenis usaha ini sering kali bukan soal seberapa banyak pe
 
 Dalam beberapa tahun terakhir, industri F&B dan retail mengalami perubahan besar. Bukan hanya dari sisi menu atau produk, tetapi dari cara bisnis dijalankan. Konsumen kini menuntut kecepatan, konsistensi, dan pengalaman yang mulus di setiap kunjungan, baik *offline* maupun *online*.
 
-Laporan [McKinsey](https://www.mckinsey.com/industries/retail/our-insights/the-future-of-retail-operations
-) menunjukkan bahwa bisnis F&B dan retail yang mampu menyeimbangkan pertumbuhan penjualan dengan efisiensi operasional memiliki peluang bertahan lebih tinggi di tengah persaingan yang semakin padat. Sebaliknya, bisnis yang hanya berfokus pada lonjakan penjualan jangka pendek cenderung lebih rentan terhadap kenaikan biaya operasional dan perubahan perilaku konsumen.  
+Laporan [McKinsey](https://www.mckinsey.com/industries/retail/our-insights/future-of-retail-operations-winning-in-a-digital-era) menunjukkan bahwa bisnis F&B dan retail yang mampu menyeimbangkan pertumbuhan penjualan dengan efisiensi operasional memiliki peluang bertahan lebih tinggi di tengah persaingan yang semakin padat. Sebaliknya, bisnis yang hanya berfokus pada lonjakan penjualan jangka pendek cenderung lebih rentan terhadap kenaikan biaya operasional dan perubahan perilaku konsumen.  
 
-Di sisi lain, data dari [Deloitte](https://www.deloitte.com/global/en/Industries/retail/analysis/global-retail-outlook.html) menunjukkan bahwa tekanan biaya di sektor F&B dan retail terus meningkat, mulai dari bahan baku, tenaga kerja, hingga operasional harian. Dalam kondisi ini, efisiensi proses menjadi faktor kunci keberlangsungan bisnis.  
+Di sisi lain, data dari [Deloitte](https://www.deloitte.com/global/en/Industries/consumer/analysis/global-retail-outlook.html) menunjukkan bahwa tekanan biaya di sektor F&B dan retail terus meningkat, mulai dari bahan baku, tenaga kerja, hingga operasional harian. Dalam kondisi ini, efisiensi proses menjadi faktor kunci keberlangsungan bisnis.  
 
 Tren ini menandai pergeseran penting: kesuksesan bisnis tidak lagi diukur dari seberapa ramai sebuah outlet dalam satu periode, tetapi dari seberapa konsisten operasional dapat dijalankan setiap hari. Bisnis yang bertahan adalah mereka yang mampu menjaga alur transaksi, stok, dan pelayanan tetap rapi meski volume pelanggan berubah-ubah.
 
