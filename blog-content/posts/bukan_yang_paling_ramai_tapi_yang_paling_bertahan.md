@@ -1,7 +1,5 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/8._bukan_yang_paling_ramai.webp)
 
-# Bukan yang Paling Ramai, Tapi yang Paling Bertahan: Pelajaran dari Bisnis yang Konsisten
-
 “Pernahkah Anda melihat bisnis yang selalu ramai, tapi tiba-tiba menghilang tanpa kabar?”
 
 Di era media sosial dan tren cepat, keramaian sering dianggap sebagai tanda kesuksesan instan. Antrian panjang, ulasan viral, dan pesanan yang menumpuk tampak seperti bukti valid bahwa sebuah usaha sedang booming. Namun, realitanya tidak selalu demikian.

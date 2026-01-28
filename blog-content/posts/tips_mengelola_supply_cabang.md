@@ -1,6 +1,6 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/10_tips_mengelola_supply_cabang.webp)
 
-**Tips Mengelola _Supply Chain_ _Multi-Outlet_/Cabang**
+---
 
 "Apakah Anda mengelola banyak outlet atau cabang, dan sering menghadapi bahan baku yang tak sesuai jadwal, stok yang habis tiba-tiba, atau laporan distribusi yang sulit dilacak?"
 
@@ -97,4 +97,4 @@ Dengan sistem terintegrasi, cabang dapat beroperasi lebih stabil meskipun sangat
 Mengelola _supply chain_ dalam perusahaan yang memiliki banyak cabang memiliki tantangan tersendiri. Meskipun pusat menyediakan bahan baku, cabang tetap memegang kendali atas ketelitian pencatatan, ketepatan pemesanan, dan konsistensi operasional. Pengelolaan yang rapi dan didukung sistem digital seperti Mille, cabang dapat mencegah pemborosan, menjaga kualitas, dan memastikan pelayanan selalu optimal.
 
 Ingin operasional cabang tetap stabil dan efisien?  
-Pelajari fitur [Mille POS & ERP](https://millehub.com/html/id/accounting.html) selengkapnya.
+Pelajari fitur [Mille POS & ERP](https://millehub.com/) selengkapnya.

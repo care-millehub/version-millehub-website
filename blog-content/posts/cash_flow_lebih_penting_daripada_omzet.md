@@ -1,8 +1,5 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/9_cash_flow_lebih_penting_dari_omzet.webp)
 ---
-
-# Di 2026, *Cash Flow* Lebih Penting daripada Omzet
-
 ## Pelajaran Penting untuk Bisnis *F&B* & *Retail* yang Ingin Bertahan
 
 “Pernahkah Anda melihat bisnis dengan omzet besar, tetapi tetap kesulitan membayar operasional bulanan?”
