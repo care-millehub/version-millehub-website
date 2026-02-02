@@ -2,7 +2,7 @@
 
 ---
 
-    Apakah Anda mengelola banyak outlet atau cabang, dan sering menghadapi bahan baku yang tak sesuai jadwal, stok yang habis tiba-tiba, atau laporan distribusi yang sulit dilacak?
+>Apakah Anda mengelola banyak outlet atau cabang, dan sering menghadapi bahan baku yang tak sesuai jadwal, stok yang habis tiba-tiba, atau laporan distribusi yang sulit dilacak?
 
 Situasi seperti ini kerap terjadi pada bisnis kuliner yang mengandalkan sistem _central kitchen_. Meskipun pasokan bahan berasal dari pusat, cabang tetap memikul tanggung jawab untuk menjaga ketepatan stok, pemesanan, hingga stabilitas operasional sehari-hari.
 
