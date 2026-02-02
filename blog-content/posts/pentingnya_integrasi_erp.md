@@ -1,6 +1,6 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/6_Pentingnya_Intergrasi_ERP.webp)
 
->‘Apakah restoran Anda masih bergantung pada catatan manual, laporan keuangan menumpuk, atau stok dapur yang sering tidak terpantau?’
+<mark>Apakah restoran Anda masih bergantung pada catatan manual, laporan keuangan menumpuk, atau stok dapur yang sering tidak terpantau?</mark>
 
 Tantangan seperti ini umum terjadi di banyak bisnis kuliner yang belum menerapkan sistem digital terpadu di era serba cepat seperti sekarang, sedangkan efisiensi operasional dan ketepatan data merupakan faktor penentu kesuksesan bisnis kuliner. Tanpa sistem yang kuat, restoran berisiko kehilangan kendali atas arus keuangan, stok, hingga performa karyawan.
 

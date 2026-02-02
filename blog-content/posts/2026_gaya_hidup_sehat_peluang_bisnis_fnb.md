@@ -1,7 +1,7 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/5_2026_gaya_hidup_sehat_peluang_bisnis_fnb.webp)
 <font color="gray" size="2">*Sumber: FreePik*</font>
 
->“Pernahkah Anda menyadari bahwa pelanggan kini memilih makanan bukan hanya karena rasa, tetapi juga karena bagaimana makanan itu membuat mereka merasa?”
+<mark>Pernahkah Anda menyadari bahwa pelanggan kini memilih makanan bukan hanya karena rasa, tetapi juga karena bagaimana makanan itu membuat mereka merasa?</mark>
 
 Di kota-kota besar, gaya hidup yang semakin dinamis membuat konsumen menjadi lebih selektif dalam memilih makanan. Mereka ingin tetap menyantap makanan yang enak, namun juga menginginkan kesehatan, kenyamanan, serta nilai tambah yang sesuai dengan aktivitas sehari-hari.
 

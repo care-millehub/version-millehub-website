@@ -1,5 +1,6 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/3-QR-order-&-self-checkout.webp)
-“Pernahkah Anda merasa malas menghabiskan waktu hanya untuk antre di kasir restoran cepat saji?”
+
+<mark>Pernahkah Anda merasa malas menghabiskan waktu hanya untuk antre di kasir restoran cepat saji?</mark>
 
 Dengan mobilitas masyarakat yang semakin tinggi, pelanggan tidak hanya mencari makanan yang enak, tetapi juga pengalaman yang memudahkan. Antrian panjang di kasir kini menjadi salah satu kendala terbesar dalam industri F&B (_food and beverages_), khususnya pada restoran cepat saji (_quick service_).
 

@@ -2,7 +2,7 @@
 
 # Tips dan Rahasia Mengelola *Supply Chain* di *Central Kitchen*
 
-“Apakah Anda mengalami kesulitan mengelola beberapa outlet atau memiliki *central kitchen* yang memasok banyak cabang, sering kewalahan mengatur bahan baku, distribusi, hingga menjaga stok?”
+<mark>Apakah Anda mengalami kesulitan mengelola beberapa outlet atau memiliki *central kitchen* yang memasok banyak cabang, sering kewalahan mengatur bahan baku, distribusi, hingga menjaga stok?</mark>
 
 Bagi bisnis kuliner yang sedang berkembang, rantai pemasok (*supply chain*) adalah fondasi yang menjadi penentu keberhasilan sebuah bisnis. Ketika alur pembelian, penyimpanan, produksi, dan distribusi berjalan dengan rapi, maka inventaris akan tertata dan mudah dipantau. Namun jika ada kendala pada *supply chain*, seperti pengelolaan stok tidak cukup, adanya keterlambatan distribusi, atau pencatatan penerimaan barang yang tidak akurat, maka dampaknya bisa langsung terasa pada performa penjualan outlet dan kepuasan pelanggan.
 

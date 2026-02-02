@@ -2,7 +2,7 @@
 ---
 ## Pelajaran Penting untuk Bisnis *F&B* & *Retail* yang Ingin Bertahan
 
-“Pernahkah Anda melihat bisnis dengan omzet besar, tetapi tetap kesulitan membayar operasional bulanan?”
+<mark>Pernahkah Anda melihat bisnis dengan omzet besar, tetapi tetap kesulitan membayar operasional bulanan?”</mark>
 
 Selama bertahun-tahun, omzet sering dijadikan simbol utama kesuksesan bisnis. Angka penjualan yang tinggi terasa meyakinkan, terlihat impresif, dan mudah dibanggakan. Namun memasuki 2026, semakin banyak pelaku usaha menyadari satu hal penting: omzet besar tidak selalu berarti bisnis yang sehat.
 
