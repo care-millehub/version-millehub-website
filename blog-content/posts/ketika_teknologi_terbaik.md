@@ -1,15 +1,14 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/11_ketika_teknologi_terbaik.webp)
 ---
 
-<p align="center"><mark> “The best technology is the one you don’t notice. It just works.”  
- — Jeff Bezos </mark></p>
+_<p align="center"><mark>“The best technology is the one you don’t notice. It just works.”
+ — Jeff Bezos_ </mark></p>
 
-<p align="justify">Di banyak bisnis hari ini, teknologi seringkali dipahami sebagai sesuatu yang harus terlihat canggih. Layar penuh grafik, sistem kompleks, dan istilah teknis yang terdengar futuristik. Namun, memasuki 2026, cara pandang ini mulai bergeser.</p>
+Di banyak bisnis hari ini, teknologi seringkali dipahami sebagai sesuatu yang harus terlihat canggih. Layar penuh grafik, sistem kompleks, dan istilah teknis yang terdengar futuristik. Namun, memasuki 2026, cara pandang ini mulai bergeser.
 
 Teknologi terbaik bukan lagi yang paling mencolok, melainkan yang paling tidak terasa. Ia bekerja di balik layar, menyederhanakan proses, dan membantu bisnis berjalan lebih rapi tanpa mengganggu operasional harian.
 
 Inilah arah masa depan bisnis: teknologi yang menyatu dengan alur kerja, bukan menambah beban baru.
-
 ## Dari Teknologi yang “Wah” ke Teknologi yang “Berfungsi”
 
 Selama bertahun-tahun, banyak bisnis mengadopsi teknologi karena dorongan tren. Sistem baru dipasang, tetapi justru menambah pekerjaan manual. Data tercatat, namun sulit dibaca. Laporan ada, tetapi datang terlambat.
@@ -81,3 +80,4 @@ Teknologi yang baik seharusnya tidak terasa merepotkan. Ia hadir untuk membantu,
 Jika Anda sedang berada di fase ingin merapikan operasional, memahami data dengan lebih utuh, dan menyiapkan bisnis agar siap tumbuh ke level berikutnya, mungkin ini saat yang tepat untuk mulai mengeksplorasi pendekatan yang lebih terintegrasi.
 
 *Mille* dirancang untuk menemani proses tersebut, bekerja di belakang layar, agar bisnis Anda bisa melaju ke depan dengan lebih tenang dan terarah.
+
