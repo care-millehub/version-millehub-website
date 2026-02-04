@@ -53,13 +53,9 @@ Di era ini, data tidak lagi sekadar laporan, tetapi menjadi partner dalam pengam
 
 ## Teknologi yang Tidak Terlihat Justru Membuat Bisnis Terasa Profesional
 
-Pelanggan mungkin tidak menyadari sistem apa yang digunakan sebuah bisnis. Namun mereka akan merasakan dampaknya.
+Pelanggan mungkin tidak menyadari sistem apa yang digunakan sebuah bisnis. Namun mereka akan merasakan dampaknya. Layanan terasa lebih cepat, pesanan lebih akurat, pembayaran lebih mudah, dan pengalaman terasa konsisten di setiap kunjungan.
 
-Layanan terasa lebih cepat. Pesanan lebih akurat. Pembayaran lebih mudah. Pengalaman terasa konsisten di setiap kunjungan.
-
-Semua ini terjadi karena teknologi bekerja secara senyap, menopang proses dari belakang. Tanpa banyak penjelasan, tanpa perlu edukasi panjang ke pelanggan.
-
-Inilah mengapa bisnis masa depan tidak lagi berlomba menampilkan teknologi, tetapi menghadirkan pengalaman yang mulus.
+Semua ini terjadi karena teknologi bekerja secara senyap, menopang proses dari belakang. Tanpa banyak penjelasan, tanpa perlu edukasi panjang ke pelanggan. Inilah mengapa bisnis masa depan tidak lagi berlomba menampilkan teknologi, tetapi menghadirkan pengalaman yang mulus.
 
 ## Bagaimana Mille Mewujudkan Teknologi yang “Tidak Terlihat”
 
@@ -74,7 +70,7 @@ Melalui ekosistem terintegrasi, *Mille* memungkinkan:
 
 Semua fitur ini bekerja di balik layar, mendukung keputusan dan operasional tanpa mengganggu alur kerja harian.
 
-## Penutup: Saat Teknologi Bekerja, Bisnis Bisa Fokus Bertumbuh
+## Saat Teknologi Bekerja, Bisnis Bisa Fokus Bertumbuh
 
 Memasuki era 2026, keunggulan bisnis tidak lagi ditentukan oleh seberapa canggih teknologi yang terlihat di permukaan, melainkan oleh seberapa rapi dan tenang operasional berjalan di balik layar.
 
