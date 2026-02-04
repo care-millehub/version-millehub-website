@@ -1,5 +1,23 @@
 [
     {
+        "slug": "cara_menyusun_laporan_keuangan",
+        "dataCategory" : "tips & trick",
+        "title": "Cara Menyusun Laporan Keuangan yang Simpel, Efektif, dan Akurat",
+        "summary": "Cara tepat menyusun laporan keuangan sederhana untuk UMKM agar bisnis lebih terukur, efisien, dan siap berkembang dengan dukungan sistem digital.",
+        "author": "Linggi",
+        "date": "2026-02-04",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/12_cara_menyusun_laporan_keuangan.webp"
+    },
+    {
+        "slug": "ketika_teknologi_terbaik",
+        "dataCategory" : "tech & future trend",
+        "title": "The Future of Business Is Invisible: Ketika Teknologi Terbaik Justru Tidak Terlihat",
+        "summary": "Memasuki 2026, teknologi terbaik bukan lagi yang paling mencolok, melainkan yang bekerja tenang di balik layar. Artikel ini membahas bagaimana *invisible technology* menjadi fondasi bisnis modern yang efisien dan berkelanjutan.",
+        "author": "Mega Febriyanti",
+        "date": "2026-02-04",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/11_ketika_teknologi_terbaik.webp"
+    },
+    {
         "slug": "tips_mengelola_supply_cabang",
         "dataCategory" : "tips & trick",
         "title": "Tips Mengelola Supply Chain Multi-Outlet/Cabang",
