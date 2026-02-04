@@ -1,10 +1,10 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/11_ketika_teknologi_terbaik.webp)
 ---
 
-<mark> *“The best technology is the one you don’t notice. It just works.”*  
- — Jeff Bezos </mark>
+<p align="center"><mark> “The best technology is the one you don’t notice. It just works.”  
+ — Jeff Bezos </mark></p>
 
-Di banyak bisnis hari ini, teknologi seringkali dipahami sebagai sesuatu yang harus terlihat canggih. Layar penuh grafik, sistem kompleks, dan istilah teknis yang terdengar futuristik. Namun, memasuki 2026, cara pandang ini mulai bergeser.
+<p align="justify">Di banyak bisnis hari ini, teknologi seringkali dipahami sebagai sesuatu yang harus terlihat canggih. Layar penuh grafik, sistem kompleks, dan istilah teknis yang terdengar futuristik. Namun, memasuki 2026, cara pandang ini mulai bergeser.</p>
 
 Teknologi terbaik bukan lagi yang paling mencolok, melainkan yang paling tidak terasa. Ia bekerja di balik layar, menyederhanakan proses, dan membantu bisnis berjalan lebih rapi tanpa mengganggu operasional harian.
 
