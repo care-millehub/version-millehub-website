@@ -17,7 +17,6 @@ Padahal, tantangan bisnis modern bukan hanya soal memiliki teknologi, melainkan 
 
 Laporan [*McKinsey*](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/technology-trends-outlook) menyebutkan bahwa bisnis yang berhasil memanfaatkan teknologi secara efektif adalah mereka yang mengintegrasikannya langsung ke proses inti, bukan menjadikannya lapisan tambahan yang terpisah dari operasional.  
 
-
 Artinya, teknologi masa depan bukan tentang “fitur paling banyak”, tetapi tentang fungsi paling relevan.
 
 ## Bisnis 2026: Kompleks di Belakang, Sederhana di Depan
