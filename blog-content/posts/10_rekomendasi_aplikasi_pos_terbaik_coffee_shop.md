@@ -1,4 +1,4 @@
-![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1-13_rekomendasi_pos_coffeeshop.webp)
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/13_rekomendasi_pos_coffeeshop.webp)
 # 10 Rekomendasi Aplikasi POS untuk Coffee Shop
 
 “Apakah Anda mengelola coffee shop dan mulai merasa operasional yang semakin kompleks seiring meningkatnya intensitas tantangan bisnis yang terjadi?”
@@ -13,9 +13,7 @@ Artikel ini membahas rekomendasi aplikasi POS untuk coffee shop, sekaligus menyo
 
 Coffee shop memiliki karakter operasional yang unik seperti halnya bahan baku cepat habis, margin harus dijaga ketat, dan konsistensi terhadap rasa menjadi kunci loyalitas pelanggan. Tanpa sistem terintegrasi, banyak coffee shop menghadapi masalah seperti selisih stok, perhitungan harga pokok penjualan (HPP) yang kurang akurat, hingga laporan keuangan yang sulit dianalisis.
 
-Tren global menunjukkan bahwa digitalisasi sudah menjadi kebutuhan. Sekitar 52% coffee shop telah menggunakan digital *Point of Sale (POS)* untuk meningkatkan efisiensi operasional, dan 68% bisnis ritel kopi memanfaatkan sistem digital untuk memperkuat operasional serta keterlibatan pelanggan. Data ini menegaskan bahwa penggunaan sistem digital membantu coffee shop menjaga kontrol bisnis dan tetap kompetitif. 
-
-https://zipdo.co/digital-transformation-in-the-coffee-industry-statistics/
+Dilansir dari [Zipdo.co](https://zipdo.co/digital-transformation-in-the-coffee-industry-statistics/) Tren global menunjukkan bahwa digitalisasi sudah menjadi kebutuhan. Sekitar 52% coffee shop telah menggunakan digital *Point of Sale (POS)* untuk meningkatkan efisiensi operasional, dan 68% bisnis ritel kopi memanfaatkan sistem digital untuk memperkuat operasional serta keterlibatan pelanggan. Data ini menegaskan bahwa penggunaan sistem digital membantu coffee shop menjaga kontrol bisnis dan tetap kompetitif. 
 
 Sistem POS yang terhubung dengan *Enterprise Resource Planning (ERP)* menyatukan transaksi, stok, biaya, dan laporan keuangan dalam satu ekosistem. Dengan data *real-time*, pemilik coffee shop dapat memantau performa bisnis dan mengambil keputusan dengan lebih cepat dan tepat.
 
@@ -27,25 +25,25 @@ Mille dirancang khusus untuk bisnis F&B yang ingin operasionalnya rapi sejak awa
 
 Fitur utama Mille untuk coffee shop:
 
-POS Terintegrasi  
+- [**POS Terintegrasi**](https://millehub.com/html/id/point-of-sale.html)  
 Integrasi POS yang memudahkan transaksi di kasir langsung tercatat ke sistem inventaris hingga keuangan, tanpa harus input ulang.
 
-Inventory & Recipe Management  
+- [**_Inventory & Recipe Management_**](https://millehub.com/html/id/inventory.html)  
 Setiap menu yang disediakan misalnya kopi itu memiliki resep dan takaran bahan yang jelas. Saat terjadi penjualan, stok biji kopi, susu, sirup, dan bahan pendukung otomatis berkurang sesuai standar.
 
-Kontrol HPP & Margin  
+- [**Kontrol HPP & Margin**](https://millehub.com/html/id/inventory.html)  
 Mille membantu menghitung *Cost of Goods Sold* secara akurat, sehingga pemilik coffee shop dapat menjaga margin meski harga bahan baku fluktuatif.
 
-Sistem Akuntansi  
+- [**Sistem Akuntansi**](https://millehub.com/html/id/accounting.html)  
 Penjualan, biaya operasional, hutang, dan laporan laba rugi tersusun otomatis. Pemilik tidak perlu menunggu akhir bulan untuk mengetahui kondisi keuangan.
 
-Multi-Outlet & Multi-Brand  
+- [**Multi-Outlet & Multi-Brand**](https://millehub.com/html/id/outlet-management.html)  
 Sangat relevan untuk coffee shop yang ingin membuka cabang. Seluruh outlet dapat dipantau dari satu *dashboard* terpusat, dengan standar resep dan laporan yang seragam.
 
-Role-Based Access  
-Hak akses dapat dibatasi sesuai peran seperti barista, supervisor, hingga owner, untuk menjaga keamanan data operasional.
+- [**Role-Based Access**](https://millehub.com/html/id/outlet-management.html)
+  Hak akses dapat dibatasi sesuai peran seperti barista, supervisor, hingga owner, untuk menjaga keamanan data operasional.
 
-Dengan pendekatan ini, Mille POS & ERP bukan hanya membantu operasional harian, tetapi juga mempersiapkan coffee shop untuk tumbuh secara berkelanjutan.
+Dengan pendekatan ini, [Mille POS & ERP](https://millehub.com/) bukan hanya membantu operasional harian, tetapi juga mempersiapkan coffee shop untuk tumbuh secara berkelanjutan.
 
 ### 2. Pawoon
 Pawoon dikenal dengan antarmuka yang sederhana dan mudah dipahami, sehingga cocok untuk coffee shop skala kecil hingga menengah yang membutuhkan sistem kasir praktis. Fitur laporan penjualan harian membantu pemilik usaha memantau performa tanpa proses yang rumit. Selain itu, manajemen menu yang fleksibel memudahkan penyesuaian harga maupun promo musiman yang sering dilakukan coffee shop.
@@ -94,4 +92,4 @@ Aplikasi POS yang tepat dapat menjadi pembeda antara coffee shop yang sekadar be
 
 Untuk coffee shop yang ingin operasional rapi sejak awal sekaligus siap scale ke multi-outlet, Mille menghadirkan solusi POS dan ERP dalam satu ekosistem yang saling terhubung.
 
-Kunjungi Millehub.com dan jadwalkan demo gratis untuk melihat bagaimana Mille POS & ERP membantu coffee shop Anda tumbuh secara terstruktur.
+Kunjungi [Millehub.com](https://millehub.com/) dan jadwalkan demo gratis untuk melihat bagaimana Mille POS & ERP membantu coffee shop Anda tumbuh secara terstruktur.
