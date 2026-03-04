@@ -1,7 +1,6 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/13_rekomendasi_pos_coffeeshop.webp)
-# 10 Rekomendasi Aplikasi POS untuk Coffee Shop
 
-“Apakah Anda mengelola coffee shop dan mulai merasa operasional yang semakin kompleks seiring meningkatnya intensitas tantangan bisnis yang terjadi?”
+<mark>“Apakah Anda mengelola coffee shop dan mulai merasa operasional yang semakin kompleks seiring meningkatnya intensitas tantangan bisnis yang terjadi?”</mark>
 
 Pertanyaan ini semakin relevan di tengah pertumbuhan industri kopi yang begitu pesat. Coffee shop hari ini tidak hanya dituntut menyajikan kualitas yang konsisten, tetapi juga mengelola stok bahan baku, harga pokok penjualan, laporan keuangan, hingga performa tiap outlet secara akurat.
 
