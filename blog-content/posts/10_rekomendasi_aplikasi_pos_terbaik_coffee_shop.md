@@ -77,13 +77,13 @@ Revel menyediakan POS berbasis *cloud* dengan fitur yang lebih luas untuk operas
 
 Sebelum menentukan sistem POS, pemilik coffee shop perlu menilai kesiapan bisnisnya:
 
-Apakah ingin membuka cabang dalam 1–2 tahun ke depan?
+- Apakah ingin membuka cabang dalam 1–2 tahun ke depan?
 
-Apakah HPP dan stok bahan sudah terkontrol dengan baik?
+- Apakah HPP dan stok bahan sudah terkontrol dengan baik?
 
-Apakah laporan keuangan masih dikerjakan manual?
+- Apakah laporan keuangan masih dikerjakan manual?
 
-Apakah ingin membangun brand dengan standar operasional yang konsisten?
+- Apakah ingin membangun brand dengan standar operasional yang konsisten?
 
 Jika jawabannya ya, maka POS dengan sistem ERP terintegrasi seperti Mille akan memberikan dampak jangka panjang yang lebih signifikan.
 
