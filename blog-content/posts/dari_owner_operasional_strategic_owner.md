@@ -86,5 +86,4 @@ Di 2026, kesuksesan bisnis tidak lagi diukur dari seberapa sibuk pemiliknya, tet
 
 Ketika sistem bekerja dengan baik, pemilik usaha bisa fokus pada hal yang paling penting: visi, strategi, dan pertumbuhan jangka panjang.
 
-Dan di titik inilah, tekn
-ologi bukan menjadi beban tambahan, melainkan partner yang membantu bisnis bergerak lebih tenang, terukur, dan siap menghadapi masa depan.
+Dan di titik inilah, teknologi bukan menjadi beban tambahan, melainkan partner yang membantu bisnis bergerak lebih tenang, terukur, dan siap menghadapi masa depan.
