@@ -1,5 +1,7 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/15_mengapa_perlu_aplikasi_kasir_stabil.webp)
 
+*<p align="center"><mark>“By failing to prepare, you are preparing to fail.”* — Benjamin Franklin</mark></p>
+
 Banyak jenis bisnis, terutama bisnis *Food and Beverage (F&B)* yang sering menghadapi momen ramai seperti akhir pekan atau libur nasional yang biasa disebut *peak season*. Di waktu ini, orang-orang pergi berlibur atau mencari tempat-tempat baru seperti mencari resto atau cafe yang unik. Bagi pemilik bisnis, *peak season* merupakan momentum yang tepat untuk menarik orang-orang untuk datang dengan melakukan berbagai penawaran. Di momen yang krusial ini, perlu adanya persiapan yang matang tanpa adanya kendala, terutama dari sisi operasional. 
 
 
