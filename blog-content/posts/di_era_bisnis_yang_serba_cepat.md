@@ -3,7 +3,7 @@
 ---
 
 
-_<p align="center"><mark>*“In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”*  
+_<p align="center"><mark>*“In a world that’s changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”*_
 — Mark Zuckerberg </mark></p>
 
 Dunia bisnis selalu berubah, tetapi dalam beberapa tahun terakhir perubahan terasa jauh lebih cepat. Tren bisa muncul dalam hitungan minggu, perilaku pelanggan bisa bergeser tanpa banyak peringatan, dan kompetitor baru dapat muncul dengan model bisnis yang berbeda dari sebelumnya.
