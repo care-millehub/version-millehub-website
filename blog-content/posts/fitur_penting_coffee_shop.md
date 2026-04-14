@@ -1,4 +1,7 @@
 
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/18_fitur_penting_coffee_shop.webp)
+---
+
 [Mengelola *coffee shop*](https://millehub.com/html/id/coffee-shop.html) bukan hanya tentang menyajikan kopi berkualitas, tetapi juga memastikan operasional berjalan efisien setiap hari. Mulai dari pencatatan transaksi, pengelolaan stok bahan baku, hingga menjaga konsistensi rasa di setiap cangkir, semuanya membutuhkan sistem yang terstruktur.
 
 Seiring berkembangnya bisnis, penggunaan aplikasi manajemen menjadi kebutuhan utama. Tanpa sistem yang terintegrasi, *coffee shop* berisiko mengalami selisih stok, kesalahan pencatatan, hingga kesulitan membaca laporan keuangan. Maka dari itu, penting untuk memilih aplikasi yang tidak hanya berfungsi sebagai kasir, tetapi juga mampu mendukung seluruh operasional bisnis.
