@@ -17,7 +17,7 @@ Di sisi lain, teknologi POS kini tidak lagi hanya berfungsi sebagai alat transak
 
 ## Fitur Penting yang Harus Ada di Aplikasi Manajemen Coffee Shop
 
-### 1. [Sistem POS yang Stabil dan Cepat]((https://millehub.com/html/id/point-of-sale.html))
+### 1. [Sistem POS yang Stabil dan Cepat](https://millehub.com/html/id/point-of-sale.html)
 
 POS (*Point of Sale*) merupakan pusat operasional transaksi di *coffee shop*. Sistem yang stabil memastikan proses pembayaran berjalan lancar, bahkan saat *high traffic* atau jam sibuk. POS yang baik juga mampu mengurangi antrean dan meningkatkan pengalaman pelanggan.
 
