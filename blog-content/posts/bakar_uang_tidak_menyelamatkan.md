@@ -124,11 +124,11 @@ Mereka memahami angka, menjaga efisiensi, membangun sistem yang rapi, dan mampu 
 
 Di tengah perubahan cara bisnis berkembang, kebutuhan akan sistem yang rapi dan saling terhubung menjadi semakin penting. Bukan hanya untuk mencatat, tetapi untuk membantu memahami kondisi bisnis secara menyeluruh.
 
-Mille hadir sebagai sistem [*ERP (Enterprise Resource Planning — sistem terintegrasi untuk mengelola operasional bisnis)]((https://millehub.com/))* yang dirancang untuk membantu bisnis membangun fondasi yang lebih kuat sejak awal.
+Mille hadir sebagai [sistem ERP (*Enterprise Resource Planning* — sistem terintegrasi untuk mengelola operasional bisnis)](https://millehub.com/) yang dirancang untuk membantu bisnis membangun fondasi yang lebih kuat sejak awal.
 
 Melalui sistem yang terintegrasi, Mille menghubungkan seluruh aktivitas bisnis mulai dari transaksi, pengelolaan stok, hingga laporan keuangan dalam satu ekosistem yang sama. Dengan data yang terpusat, pemilik usaha dapat melihat kondisi bisnis secara lebih jelas tanpa perlu mengumpulkan informasi dari berbagai sumber.
 
-Lebih dari itu, Mille juga dilengkapi dengan [*business intelligence*]((https://millehub.com/)) *(kemampuan sistem mengolah data menjadi insight untuk pengambilan keputusan)* yang membantu [membaca pola penjualan](https://millehub.com/html/id/point-of-sale.html), [memprediksi kebutuhan bahan baku](https://millehub.com/html/id/inventory.html), hingga [memahami perilaku pelanggan](https://millehub.com/html/id/customer.html) secara lebih mendalam.
+Lebih dari itu, Mille juga dilengkapi dengan [*business intelligence*](https://millehub.com/) *(kemampuan sistem mengolah data menjadi insight untuk pengambilan keputusan)* yang membantu [membaca pola penjualan](https://millehub.com/html/id/point-of-sale.html), [memprediksi kebutuhan bahan baku](https://millehub.com/html/id/inventory.html), hingga [memahami perilaku pelanggan](https://millehub.com/html/id/customer.html) secara lebih mendalam.
 
 Dengan pendekatan ini, sistem tidak lagi hanya berfungsi sebagai alat pencatatan, tetapi menjadi partner yang membantu bisnis mengambil keputusan dengan lebih tepat dan terarah.
 
