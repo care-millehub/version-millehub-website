@@ -70,6 +70,6 @@ Di tengah kebutuhan untuk membangun hubungan pelanggan yang lebih kuat, sistem y
 
 Dengan sistem yang terintegrasi, bisnis tidak perlu lagi mengandalkan ingatan atau pencatatan manual untuk memahami pelanggan.
 
-## Penutup: Bukan Sekadar Datang, Tapi Kembali
+## Bukan Sekadar Datang, Tapi Kembali
 
 Di tengah persaingan yang semakin padat, menarik perhatian pelanggan memang penting. Namun yang lebih menentukan adalah apakah mereka memiliki alasan untuk kembali. Bisnis yang kuat bukan hanya yang mampu menciptakan keramaian, tetapi yang mampu membangun hubungan. Karena pada akhirnya, pertumbuhan yang sehat tidak datang dari seberapa banyak pelanggan baru yang datang, tetapi dari seberapa banyak pelanggan yang memilih untuk kembali.
