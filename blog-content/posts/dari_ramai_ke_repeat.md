@@ -1,7 +1,7 @@
 
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/23_dari_ramai_ke_repeat.webp)
 
-<mark>*“Getting customers is hard. Keeping them is harder.”*</mark>
+_<p align="center"><mark>“Getting customers is hard. Keeping them is harder.”</mark></p>_
 
 Kalimat ini mungkin terdengar sederhana, tetapi di dunia bisnis saat ini, maknanya semakin terasa nyata. Banyak bisnis berhasil menarik perhatian pelanggan di awal, tetapi tidak semuanya berhasil membuat mereka kembali. Di era dimana promosi mudah dilakukan dan kompetitor semakin banyak, “ramai” bukan lagi satu-satunya indikator keberhasilan.
 
@@ -61,7 +61,7 @@ Bisnis yang memahami pelanggannya dengan baik cenderung memiliki pertumbuhan yan
 
 ## Bagaimana Mille Membantu Membangun *Customer* yang Kembali
 
-Di tengah kebutuhan untuk membangun hubungan pelanggan yang lebih kuat, sistem yang mampu mengelola data dengan baik menjadi sangat penting. [Mille](https://millehub.com/) hadir sebagai sistem [*ERP (Enterprise Resource Planning)*](https://millehub.com/) — sistem terintegrasi untuk mengelola operasional bisnis) yang tidak hanya membantu mencatat transaksi, tetapi juga menghubungkan data pelanggan dalam satu ekosistem yang sama. Melalui fitur *CRM (Customer Relationship Management* — pengelolaan hubungan pelanggan) dan [*loyalty program*](https://millehub.com/html/id/customer.html), Mille membantu bisnis:
+Di tengah kebutuhan untuk membangun hubungan pelanggan yang lebih kuat, sistem yang mampu mengelola data dengan baik menjadi sangat penting. [Mille](https://millehub.com/) hadir sebagai sistem [*ERP (Enterprise Resource Planning)*](https://millehub.com/) — sistem terintegrasi untuk mengelola operasional bisnis yang tidak hanya membantu mencatat transaksi, tetapi juga menghubungkan data pelanggan dalam satu ekosistem yang sama. Melalui fitur *CRM (Customer Relationship Management* — pengelolaan hubungan pelanggan) dan [*loyalty program*](https://millehub.com/html/id/customer.html), Mille membantu bisnis:
 
 * memahami perilaku pelanggan secara lebih jelas
 * mengelola data pelanggan secara terpusat
