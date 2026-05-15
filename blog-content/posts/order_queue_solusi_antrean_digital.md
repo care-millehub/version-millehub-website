@@ -4,7 +4,7 @@
 
 Pernah melihat pelanggan bertanya berulang kali, <mark>“Pesanan saya sudah sampai mana?”</mark> atau antrean yang terasa tidak jelas saat jam sibuk? Situasi seperti ini sering terjadi pada bisnis F&B dengan volume transaksi tinggi, terutama ketika sistem antrean masih dilakukan secara manual.
 
-Dalam bisnis [*quick service restaurant*]((https://millehub.com/html/id/quick-service.html)), kecepatan layanan menjadi salah satu faktor paling penting, baik dari sisi operasional maupun pengalaman pelanggan. Semakin cepat pesanan diproses dan diterima pelanggan, semakin baik pula alur pelayanan dan *turnover* pelanggan yang dapat dicapai bisnis.
+Dalam bisnis [*quick service restaurant*](https://millehub.com/html/id/quick-service.html), kecepatan layanan menjadi salah satu faktor paling penting, baik dari sisi operasional maupun pengalaman pelanggan. Semakin cepat pesanan diproses dan diterima pelanggan, semakin baik pula alur pelayanan dan *turnover* pelanggan yang dapat dicapai bisnis.
 
 ## Apa Itu Fitur *Order Queue*?
 
