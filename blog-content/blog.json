@@ -1,5 +1,14 @@
 [
-     {
+    {
+        "slug": "ramai_itu_penting_kosisten_itu_sistem",
+        "dataCategory" : "inspiration",
+        "title": "Ramai Itu Mudah, Konsisten Itu Sistem: Kenapa Banyak Bisnis Gagal di Tengah Jalan",
+        "summary": "Pelajari mengapa banyak bisnis gagal di tengah pertumbuhan, serta pentingnya sistem operasional yang terintegrasi untuk menjaga konsistensi dan keberlanjutan bisnis.",
+        "author": "Mega Febriyanti",
+        "date": "2026-05-22",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/25_ramai_itu_penting.webp"
+    },
+    {
         "slug": "order_queue_solusi_antrean_digital",
         "dataCategory" : "tech & future trend",
         "title": "Order Queue: Solusi Antrean Digital untuk Operasional yang Lebih Efisien",
