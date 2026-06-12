@@ -1,4 +1,13 @@
 [
+     {
+        "slug": "sistem_keamanan_pos",
+        "dataCategory" : "business insight",
+        "title": "Sistem Keamanan POS untuk Mencegah Kecurangan Operasional dengan Fitur Anti-Fraud Detection",
+        "summary": "Pelajari bagaimana sistem keamanan POS dengan fitur Anti-Fraud Detection membantu mencegah kecurangan operasional, meningkatkan transparansi aktivitas, dan menjaga akurasi data bisnis.",
+        "author": "Linggi",
+        "date": "2026-06-12",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/26_sistem_keamanan_pos.webp"
+    },
     {
         "slug": "ramai_itu_penting_kosisten_itu_sistem",
         "dataCategory" : "inspiration",
