@@ -110,7 +110,7 @@ Di tahap ini, sistem bukan lagi alat administrasi, tetapi alat untuk menjaga kes
 
 ## Bagaimana Mille Membantu Mengurangi *Silent Cost*
 
-Mille hadir sebagai [sistem *ERP](https://millehub.com/) (Enterprise Resource Planning — sistem terintegrasi untuk mengelola operasional bisnis)* yang membantu bisnis memiliki visibilitas yang lebih menyeluruh terhadap aktivitas operasional.
+Mille hadir sebagai [sistem ERP](https://millehub.com/) *(Enterprise Resource Planning — sistem terintegrasi untuk mengelola operasional bisnis)* yang membantu bisnis memiliki visibilitas yang lebih menyeluruh terhadap aktivitas operasional.
 
 Melalui sistem yang saling terhubung, Mille membantu:
 
