@@ -1,5 +1,14 @@
 [
-     {
+    {
+        "slug": "silent_cost_yang_menggerus_profit",
+        "dataCategory" : "business insight",
+        "title": "Silent Cost: Biaya yang Tidak Terlihat Tapi Diam-Diam Menggerus Profit",
+        "summary": "Pelajari bagaimana silent cost seperti waste, human error, overstaffing, dan keterlambatan laporan dapat mengurangi profit bisnis tanpa disadari serta cara mengatasinya melalui sistem yang terintegrasi.",
+        "author": "Mega Febriyanti",
+        "date": "2026-06-15",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/27_silent_cost_yang_menggerus_profit.webp"
+    },
+    {
         "slug": "sistem_keamanan_pos",
         "dataCategory" : "business insight",
         "title": "Sistem Keamanan POS untuk Mencegah Kecurangan Operasional dengan Fitur Anti-Fraud Detection",
