@@ -1,4 +1,22 @@
 [
+     {
+        "slug": "bukan_lagi_siapa_yang_paling_besar",
+        "dataCategory" : "business insight",
+        "title": "Bukan Lagi Siapa yang Paling Besar: Kenapa Bisnis yang Adaptif Lebih Menang di 2026",
+        "summary": "Pelajari mengapa bisnis yang adaptif diprediksi lebih unggul di 2026, serta bagaimana data *real-time* dan sistem terintegrasi membantu bisnis merespons perubahan dengan lebih cepat.",
+        "author": "Mega Febriyanti",
+        "date": "2026-06-26",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/29_bukan_lagi_siapa_yang_paling_besar.webp"
+    },
+    {
+        "slug": "pentingnya_fitur_table_management",
+        "dataCategory" : "tech & future trend",
+        "title": "Pentingnya Fitur Table Management dan Reservasi untuk Efisiensi Operasional Restoran",
+        "summary": "Pelajari pentingnya fitur Table Management dan reservasi untuk meningkatkan efisiensi operasional restoran, mengoptimalkan penggunaan meja, serta menciptakan pengalaman pelanggan yang lebih nyaman.",
+        "author": "Linggi",
+        "date": "2026-06-26",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/28_pentingnya_fitur_table_management.webp"
+    },
     {
         "slug": "silent_cost_yang_menggerus_profit",
         "dataCategory" : "business insight",
