@@ -49,12 +49,6 @@ Namun tanpa visibilitas terhadap produktivitas dan kebutuhan aktual, jumlah tim 
 
 Biaya tenaga kerja yang tidak optimal sering menjadi salah satu *silent cost* terbesar karena dampaknya tidak langsung terlihat dari laporan harian.
 
-<div class="banner-tengah">
-  <a href="https://millehub.com/html/id/pricing.html">
-    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/27_silent_cost_yang_menggerus_profit.webp" alt="Banner" style="width:100%;border-radius:12px;">
-  </a>
-</div>
-
 ### 3. *Waste* yang Terlihat Kecil, Tapi Terjadi Setiap Hari
 
 Produk rusak. Bahan terbuang. Produksi berlebih.
