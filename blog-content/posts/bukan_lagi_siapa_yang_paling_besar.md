@@ -1,6 +1,5 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/29_bukan_lagi_siapa_yang_paling_besar.webp)
 
-
 <mark>*"It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change."*</mark>  
 — Charles Darwin
 
