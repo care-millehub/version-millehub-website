@@ -4,7 +4,7 @@
 
 <mark>Pernahkah Anda melihat bisnis dengan omzet besar, tetapi tetap kesulitan membayar operasional bulanan?”</mark>
 
-Selama bertahun-tahun, omzet sering dijadikan simbol utama kesuksesan bisnis. Angka penjualan yang tinggi terasa meyakinkan, terlihat impresif, dan mudah dibanggakan. Namun memasuki 2026, semakin banyak pelaku usaha menyadari satu hal penting: omzet besar tidak selalu berarti bisnis yang sehat.
+Selama bertahun-tahun, omzet sering dijadikan simbol utama kesuksesan bisnis. Angka penjualan yang tinggi terasa meyakinkan, terlihat impresif, dan mudah dibanggakan. Namun memasuki 2026, semakin banyak pelaku usaha menyadari satu hal penting yaitu omzet besar tidak selalu berarti bisnis yang sehat.
 
 Di tengah biaya operasional yang meningkat, perilaku konsumen yang berubah, dan persaingan yang semakin ketat, *cash flow* (arus kas masuk dan keluar bisnis) justru menjadi indikator utama apakah sebuah usaha bisa bertahan atau tidak.
 
