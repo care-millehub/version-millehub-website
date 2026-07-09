@@ -1,4 +1,4 @@
-![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1-10_Rekomendasi_POS.webp)
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/1_Rekomendasi_POS_Restoran.webp)
 
 <mark>Pernahkah Anda mengalami antrean tak beraturan di jam sibuk, pesanan yang salah masuk dapur, atau stok bahan habis?</mark>
 
