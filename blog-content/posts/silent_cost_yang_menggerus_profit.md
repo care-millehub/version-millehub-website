@@ -1,7 +1,4 @@
-![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/27_silent_cost_yang_menggerus_profit.webp)
-
----
-
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/29_silent_cost_yang_menggerus profit.webp)
 
 <mark>*“What gets measured gets managed.”*  </mark>
 — Peter Drucker
