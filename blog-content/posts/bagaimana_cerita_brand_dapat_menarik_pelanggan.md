@@ -6,7 +6,7 @@ Cerita brand atau *brand storytelling* menjadi salah satu cara paling efektif un
 
 ## Mengapa Cerita Brand Penting untuk Menarik Pelanggan Baru?
 
-Dalam proses pengambilan keputusan, terkadang pelanggan tidak selalu rasional dan banyak keputusan pembelian justru dipengaruhi oleh emosi dan persepsi terhadap sebuah brand. Cerita yang kuat mampu membangun kepercayaan, menciptakan diferensiasi, dan membuat bisnis lebih menonjol dibanding kompetitor.
+Dalam proses pengambilan keputusan, terkadang pelanggan tidak selalu rasional dan banyak keputusan pembelian justru dipengaruhi oleh emosi dan persepsi terhadap sebuah brand. Cerita yang kuat mampu membangun kepercayaan, menciptakan diferensiasi, dan membuat bisnis lebih menonjol dibanding kompetitor yang lain.
 
 Menurut laporan dari [*Insight Nielsen*](https://www.nielsen.com/global/en/insights/), sekitar 55% konsumen global lebih cenderung membeli produk dari brand yang memiliki cerita yang menarik dan relevan secara emosional. Hal ini menunjukkan bahwa storytelling bukan sekadar elemen tambahan, melainkan bagian penting dari strategi pemasaran modern.
 
