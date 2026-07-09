@@ -1,4 +1,5 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/21_bakar_uang_tidak_menyelamatkan.webp)
+
 <font color="gray" size="2">*Sumber: FreePik*</font>
 
 <mark>*“Growth at all costs is no longer the strategy.”*</mark>

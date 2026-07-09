@@ -1,5 +1,4 @@
 
-
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/22_kitchen_display_system_dapur_efisien.webp)
 
 Pernah mengalami pesanan yang terlewat, salah input, atau komunikasi yang kurang jelas antara kasir dan dapur? Situasi seperti ini sering terjadi pada bisnis F&B, terutama saat jam sibuk. Ketika volume pesanan meningkat, sistem manual seperti kertas atau komunikasi verbal sering kali tidak lagi efektif.
