@@ -13,6 +13,12 @@ Kesalahan pencatatan yang berulang, stok yang tidak terkontrol, proses kerja yan
 
 Dan ketika dibiarkan terlalu lama, dampaknya bisa jauh lebih besar daripada yang terlihat.
 
+<div class="aset_cta_banner">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## Kerugian Tidak Selalu Datang dari Penjualan yang Turun
 
 Ketika profit menurun, respons pertama banyak bisnis biasanya adalah meningkatkan penjualan, menambah promo, menambah *campaign*, menambah *traffic*. Padahal, belum tentu masalah utamanya ada di sana.
