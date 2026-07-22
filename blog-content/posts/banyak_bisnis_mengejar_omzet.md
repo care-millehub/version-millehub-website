@@ -1,8 +1,7 @@
 ![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/31_banyak_bisnis_mengejar_omzet.webp)
-
 ---
 
-*"Revenue is vanity, profit is sanity, but cash flow is reality."*  
+<mark>*"Revenue is vanity, profit is sanity, but cash flow is reality."* </mark>
 — Anonymous
 
 Banyak pemilik usaha menganggap omzet sebagai tolok ukur utama keberhasilan bisnis. Ketika angka penjualan terus meningkat, bisnis dianggap sedang berada di jalur yang tepat. Tidak sedikit strategi kemudian difokuskan pada satu tujuan: bagaimana menjual lebih banyak.
