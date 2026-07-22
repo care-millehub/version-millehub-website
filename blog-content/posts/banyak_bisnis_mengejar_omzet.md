@@ -1,3 +1,4 @@
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/31_banyak_bisnis_mengejar_omzet.webp)
 
 ---
 
