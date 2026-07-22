@@ -117,10 +117,10 @@ Mille hadir sebagai [sistem ERP](https://millehub.com/) *(Enterprise Resource Pl
 
 Melalui sistem yang saling terhubung, Mille membantu:
 
-● mengontrol stok dan pergerakan bahan secara lebih akurat  
-● mengotomatisasi proses operasional untuk mengurangi *human error*  
-● menghubungkan transaksi dan laporan dalam satu *dashboard*  
-● menyediakan [*business intelligence*](https://millehub.com/) untuk membantu membaca pola dan potensi inefisiensi  
+- mengontrol stok dan pergerakan bahan secara lebih akurat  
+- mengotomatisasi proses operasional untuk mengurangi *human error*  
+- menghubungkan transaksi dan laporan dalam satu *dashboard*  
+- menyediakan *business intelligence* untuk membantu membaca pola dan potensi inefisiensi  
 
 Dengan pendekatan ini, bisnis tidak hanya mengetahui apa yang terjadi, tetapi juga lebih cepat memahami apa yang perlu diperbaiki.
 

@@ -1,4 +1,22 @@
 [
+    {
+        "slug": "banyak_bisnis_mengejar_omzet",
+        "dataCategory" : "business insight",
+        "title": "Banyak Bisnis Mengejar Omzet. Sedikit yang Membangun Nilainya.",
+        "summary": "Mengapa membangun nilai bisnis lebih penting daripada sekadar mengejar omzet, serta bagaimana sistem terintegrasi membantu menciptakan pertumbuhan yang berkelanjutan.",
+        "author": "Mega Febriyanti",
+        "date": "2026-07-21",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/31_banyak_bisnis_mengejar_omzet.webp"
+    },
+    {
+        "slug": "sistem_manajemen_karyawan",
+        "dataCategory" : "tech & future trend",
+        "title": "Sistem Manajemen Karyawan untuk Meningkatkan Efisiensi Operasional Bisnis",
+        "summary": " pentingnya sistem manajemen karyawan untuk meningkatkan efisiensi operasional bisnis melalui pengelolaan absensi, jadwal kerja, performa, dan hak akses yang lebih terstruktur.",
+        "author": "Linggi",
+        "date": "2026-07-21",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/30_sistem_manajemen_karyawan.webp"
+    },
      {
         "slug": "silent_cost_yang_menggerus_profit",
         "dataCategory" : "business insight",
