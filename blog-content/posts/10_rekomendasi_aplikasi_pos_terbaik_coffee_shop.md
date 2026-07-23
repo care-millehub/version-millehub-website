@@ -16,9 +16,9 @@ Dilansir dari [Zipdo.co](https://zipdo.co/digital-transformation-in-the-coffee-i
 
 Sistem POS yang terhubung dengan *Enterprise Resource Planning (ERP)* menyatukan transaksi, stok, biaya, dan laporan keuangan dalam satu ekosistem. Dengan data *real-time*, pemilik coffee shop dapat memantau performa bisnis dan mengambil keputusan dengan lebih cepat dan tepat.
 
-<div class="aset_cta_banner">
+<div class="aset_cta_banner_gambar">
   <a href="https://partner.millehub.com/register-user">
-    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_gambar.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
   </a>
 </div>
 
