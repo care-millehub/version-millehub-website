@@ -39,6 +39,7 @@ Untuk membantu Anda menentukan pilihan, berikut **10 aplikasi POS terbaik untuk 
 
 ---
 
+
 ## 2. Toast POS
 
 **Toast POS** dikenal secara global berkat fitur **Kitchen Display System (KDS)** yang mempercepat alur kerja dapur.
@@ -146,6 +147,12 @@ Cocok untuk usaha kecil yang butuh sistem sederhana namun efektif.
 - Inventaris dasar  
 
 ---
+
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
 
 ## Kesimpulan
 

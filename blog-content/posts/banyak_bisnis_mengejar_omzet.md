@@ -24,6 +24,12 @@ Dalam kondisi seperti ini, yang sebenarnya bertumbuh hanyalah aktivitas bisnis, 
 
 Nilai sebuah perusahaan justru meningkat ketika bisnis mampu berjalan secara konsisten, memiliki proses yang jelas, serta tidak sepenuhnya bergantung pada satu orang.
 
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## Apa yang Sebenarnya Membentuk Nilai Sebuah Bisnis?
 
 Ketika investor, calon *partner*, atau bahkan calon pembeli melihat sebuah bisnis, mereka tidak hanya melihat besar kecilnya omzet.

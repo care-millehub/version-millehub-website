@@ -14,6 +14,12 @@ Operasional bisnis yang berjalan lancar tidak hanya bergantung pada produk atau 
 Menurut [*Gallup Q12 Meta-Analysis* (2024)](https://www.gallup.com/workplace/321725/gallup-q12-meta-analysis-report.aspx
 ), unit bisnis dengan tingkat *employee engagement* yang tinggi memiliki produktivitas hingga 14% lebih tinggi dan tingkat ketidakhadiran 78% lebih rendah dibandingkan unit dengan kehadiran karyawan. Temuan ini menunjukkan bahwa pengelolaan karyawan yang terstruktur memberikan dampak nyata terhadap efisiensi operasional bisnis.
 
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## Manfaat Sistem Manajemen Karyawan untuk Operasional Bisnis
 
 ### 1. Membantu Mengelola Absensi dengan Lebih Akurat
