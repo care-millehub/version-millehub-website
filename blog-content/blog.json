@@ -1,6 +1,23 @@
 [
+     {
+        "slug": "bukan_teknologinya_yang_menentukan",
+        "dataCategory" : "tech & future trend",
+        "title": "Di Era AI, Bukan Teknologinya yang Menentukan Pemenang, Tapi Cara Pebisnis Menggunakannya",
+        "summary": "mengapa keberhasilan bisnis di era AI tidak ditentukan oleh teknologinya, melainkan oleh kualitas data, sistem yang terintegrasi, dan cara pebisnis memanfaatkannya.",
+        "author": "Mega Febriyanti",
+        "date": "2026-07-29",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/33_bukan_teknologinya_yang_jadi_penentu.webp"
+    },
+     {
+        "slug": "fitur_pengelolaan_multioutlet&multibrand",
+        "dataCategory" : "tech & future trend",
+        "title": "Pengelolaan Multi-Outlet & Multi-Brand: Kunci Menjaga Operasional Bisnis Tetap Terpusat",
+        "summary": "Fitur penting pengelolaan multi-outlet dan multi-brand secara terpusat untuk menjaga konsistensi operasional, meningkatkan efisiensi, serta mempermudah pengambilan keputusan bisnis.",
+        "author": "Linggi",
+        "date": "2026-07-29",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/32_pengelolaan_multioutlet_multibrand.webp"
+    },
     {
-        "slug": "banyak_bisnis_mengejar_omzet",
         "dataCategory" : "business insight",
         "title": "Banyak Bisnis Mengejar Omzet. Sedikit yang Membangun Nilainya.",
         "summary": "Mengapa membangun nilai bisnis lebih penting daripada sekadar mengejar omzet, serta bagaimana sistem terintegrasi membantu menciptakan pertumbuhan yang berkelanjutan.",

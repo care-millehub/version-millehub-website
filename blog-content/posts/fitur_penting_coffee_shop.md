@@ -57,6 +57,12 @@ Fitur ini tidak hanya mempercepat alur layanan, tetapi juga mengurangi beban ant
 
 Menggabungkan seluruh fitur di atas dalam satu sistem memberikan dampak signifikan terhadap efisiensi operasional. Proses yang sebelumnya dilakukan secara manual dapat berjalan otomatis, sehingga mengurangi risiko kesalahan dan mempercepat pengambilan keputusan. Selain itu, sistem digital juga membantu pemilik *coffee shop* dalam mengelola pertumbuhan bisnis, baik dari sisi operasional maupun strategi pengembangan.
 
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## Mille sebagai Solusi Manajemen Coffee Shop Terintegrasi
 
 Sebagai solusi POS dan ERP yang terintegrasi, Mille dirancang untuk membantu *coffee shop* mengelola operasional secara lebih efisien dan terstruktur. Mulai dari transaksi kasir, pengelolaan stok, manajemen resep, hingga laporan keuangan, semuanya dapat diakses dalam satu platform.
