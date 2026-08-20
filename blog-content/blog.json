@@ -1,5 +1,14 @@
 [
     {
+        "slug": "cashless_bukan_sekedar_cara_bayar",
+        "dataCategory" : "business insight",
+        "title": "Cashless Bukan Lagi Sekadar Cara Bayar: Bagaimana Pembayaran Digital Mengubah Bisnis F&B",
+        "summary": "Memahami bagaimana pembayaran digital mengubah operasional bisnis F&B, dari transaksi yang lebih praktis hingga integrasi payment, data, dan sistem bisnis.",
+        "author": "Mega Febriyanti",
+        "date": "2026-08-18",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/35_cashless_bukan_sekedar_cara_bayar.webp"
+    },
+    {
         "slug": "fitur_pengelolaan_pelanggan",
         "dataCategory" : "tech & future trend",
         "title": "Fitur Pengelolaan Pelanggan untuk Meningkatkan Loyalitas dan Pertumbuhan Bisnis",
