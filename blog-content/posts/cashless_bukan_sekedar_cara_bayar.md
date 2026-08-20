@@ -103,6 +103,12 @@ Lebih dari sekadar menyediakan metode pembayaran *cashless*, integrasi tersebut 
 
 Ketika transaksi terhubung dengan sistem seperti [*POS*, *inventory*, *dashboard*, dan *business intelligence*](https://millehub.com/), pemilik usaha memiliki kesempatan untuk melihat bisnis bukan hanya dari sisi berapa banyak transaksi yang terjadi, tetapi juga apa yang dapat dipelajari dari setiap transaksi tersebut.
 
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## *Cashless* Bukan Tujuan Akhir
 
 Perkembangan pembayaran digital menunjukkan bahwa cara pelanggan bertransaksi terus berubah. Namun bagi bisnis, transformasi yang sebenarnya bukan sekadar mengganti uang tunai dengan QRIS.
