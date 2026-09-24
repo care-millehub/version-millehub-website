@@ -65,6 +65,12 @@ Dari sisi pembayaran, Mille juga mendukung kebutuhan bisnis dalam mengatur reser
 
 Integrasi tersebut membuat reservasi tidak berdiri sendiri sebagai fitur pencatatan kunjungan. Data dan aktivitas pelanggan dapat menjadi bagian dari ekosistem operasional yang lebih luas, mulai dari reservasi, pengelolaan meja, transaksi, hingga hubungan dengan pelanggan.
 
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## Kesimpulan
 
 Fitur reservasi bukan sekadar sarana untuk mencatat kunjungan pelanggan. Bagi bisnis *F&B*, reservasi dapat menjadi bagian penting dalam mengoptimalkan penggunaan meja dan ruang, mengatur waktu pelayanan, serta memberikan pengalaman yang lebih nyaman bagi pelanggan.
