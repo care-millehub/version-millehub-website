@@ -140,7 +140,7 @@ Pada akhirnya, tidak semua tren harus diikuti dan tidak semua menu viral harus d
 
 Bagi pemilik *coffee shop*, tren seharusnya menjadi sinyal untuk melihat peluang, bukan alasan untuk mengambil keputusan secara terburu-buru.
 
-> > Baca Juga: [Fitur Penting yang Harus Ada di Aplikasi Manajemen Coffee Shop](https://millehub.com/html/blog/blog-details.html?post=fitur_penting_coffee_shop)
+Baca Juga: [Fitur Penting yang Harus Ada di Aplikasi Manajemen Coffee Shop](https://millehub.com/html/blog/blog-details.html?post=fitur_penting_coffee_shop)
 
 Dirty Latte mungkin sedang mendapatkan perhatian besar pada 2026. Namun nilai sebenarnya bagi sebuah bisnis baru dapat terlihat ketika *owner* mampu memahami performanya secara menyeluruh: dari jumlah penjualan, *margin*, penggunaan bahan baku, hingga perilaku pelanggan.
 
