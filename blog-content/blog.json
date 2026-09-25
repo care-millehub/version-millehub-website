@@ -1,5 +1,14 @@
 [
     {
+        "slug": "harga_naik_pelanggan_pergi",
+        "dataCategory" : "business insight",
+        "title": "Harga Naik, Pelanggan Pergi? Ini Dia Cara Bisnis F&B Menjaga Margin Tanpa Kehilangan Customer",
+        "summary": "Cara bisnis F&B menjaga margin ketika biaya meningkat tanpa kehilangan customer melalui strategi pricing, menu engineering, pengelolaan cost, dan pemanfaatan data bisnis.",
+        "author": "Mega Febriyanti",
+        "date": "2026-09-20",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/39_harga_naik_pelanggan_pergi.webp.webp"
+    },
+    {
         "slug": "pentingnya_fitur_reservasi",
         "dataCategory" : "tech & future trend",
         "title": "Pentingnya Fitur Reservasi untuk Mengelola Kunjungan Pelanggan Secara Lebih Efisien",
