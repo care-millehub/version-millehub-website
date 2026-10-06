@@ -1,4 +1,22 @@
 [
+{
+        "slug": "f&b_2027_siapa_yang_paling_efisien",
+        "dataCategory" : "business insight",
+        "title": "F&B 2027: Bukan Lagi Soal Siapa yang Paling Ramai, Tapi Siapa yang Paling Efisien",
+        "summary": " perubahan cara bisnis F&B melihat pertumbuhan menuju 2027, dari sekadar mengejar keramaian menjadi membangun efisiensi, memahami customer, dan mengambil keputusan berdasarkan data.",
+        "author": "Mega Febriyanti",
+        "date": "2026-09-30",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/41_f&b_2027_siapa_yang_paling_efisien.webp"
+    },
+    {
+        "slug": "fitur_waiting_list",
+        "dataCategory" : "tech & future trend",
+        "title": "Waiting List untuk Mengelola Antrean Pelanggan dan Meningkatkan Efisiensi Restoran",
+        "summary": "Memahami manfaat Waiting List dalam membantu restoran mengelola antrean, kapasitas meja, efisiensi operasional, dan pengalaman pelanggan secara lebih terstruktur.",
+        "author": "Linggi",
+        "date": "2026-09-30",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/40_fitur_waiting_list.webp"
+    },
     {
         "slug": "harga_naik_pelanggan_pergi",
         "dataCategory" : "business insight",

@@ -72,6 +72,12 @@ Dengan Mille, bisnis dapat:
 
 Didukung sistem yang stabil dan fleksibel, Mille membantu bisnis tetap berjalan optimal, bahkan saat menghadapi lonjakan pengunjung.
 
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## Kesimpulan
 
 Fitur *Order Queue* yang terintegrasi dengan *Kitchen Display System* bukan hanya membantu menampilkan antrean pesanan secara digital, tetapi juga mendukung operasional yang lebih cepat, terstruktur, dan transparan. Dengan informasi antrean yang jelas, pelanggan dapat memahami alur pelayanan dengan lebih nyaman tanpa perlu menunggu dalam ketidakpastian.
