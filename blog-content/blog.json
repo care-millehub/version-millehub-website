@@ -1,9 +1,18 @@
 [
-{
+    {
+        "slug": "rekomendasi_pos_bakery",
+        "dataCategory" : "tech & future trend",
+        "title": "10 Rekomendasi POS Terbaik untuk Bakery",
+        "summary": "Rekomendasi sistem POS untuk bakery, mulai dari pengelolaan transaksi, pre-order, inventaris, bahan baku, perhitungan HPP, hingga operasional beberapa outlet.",
+        "author": "Linggi",
+        "date": "2026-10-20",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/42_rekomendasi_pos_bakery.webp"
+    },
+    {
         "slug": "f&b_2027_siapa_yang_paling_efisien",
         "dataCategory" : "business insight",
         "title": "F&B 2027: Bukan Lagi Soal Siapa yang Paling Ramai, Tapi Siapa yang Paling Efisien",
-        "summary": " perubahan cara bisnis F&B melihat pertumbuhan menuju 2027, dari sekadar mengejar keramaian menjadi membangun efisiensi, memahami customer, dan mengambil keputusan berdasarkan data.",
+        "summary": "Perubahan cara bisnis F&B melihat pertumbuhan menuju 2027, dari sekadar mengejar keramaian menjadi membangun efisiensi, memahami customer, dan mengambil keputusan berdasarkan data.",
         "author": "Mega Febriyanti",
         "date": "2026-09-30",
         "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/41_f&b_2027_siapa_yang_paling_efisien.webp"
