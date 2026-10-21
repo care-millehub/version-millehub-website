@@ -116,6 +116,12 @@ Cocok untuk: *bakery* yang menggabungkan penjualan produk dengan layanan F&B.
 
 Referensi: CAKE.
 
+<div class="aset_cta_banner_">
+  <a href="https://partner.millehub.com/register-user">
+    <img src="https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/aset_cta_banner_.webp" alt="Free Trial Mille" style="width:100%;border-radius:12px;">
+  </a>
+</div>
+
 ## Cara Memilih POS yang Tepat untuk *Bakery*
 
 Sebelum memilih sistem POS, pertimbangkan kebutuhan operasional *bakery* secara menyeluruh.
