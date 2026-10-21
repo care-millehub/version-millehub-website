@@ -1,4 +1,6 @@
 
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/42_rekomendasi_pos_bakery.webp)
+
 ## Mengapa *Bakery* Membutuhkan Sistem POS?
 
 Bisnis *bakery* tidak hanya berfokus pada penjualan roti, kue, dan *pastry*. Pengelolaan bahan baku, persiapan produksi, pesanan pelanggan, hingga perhitungan biaya produk juga perlu diperhatikan agar operasional berjalan lancar. Tantangannya semakin kompleks ketika *bakery* menerima *pre-order* (PO), melayani pesanan dalam jumlah besar, atau mengelola beberapa *outlet*.
