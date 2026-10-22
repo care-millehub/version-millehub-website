@@ -1,5 +1,14 @@
 [
     {
+        "slug": "menu_akhir_tahun_yang_laris",
+        "dataCategory" : "business insight",
+        "title": "Menu Akhir Tahun yang Laris Belum Tentu Menguntungkan: Cara F&B Menyusun Strategi Menu yang Tepat",
+        "summary": "Pelajari cara bisnis F&B mengevaluasi popularitas menu, menghitung kontribusi keuntungan, menyusun promo akhir tahun, dan memanfaatkan data untuk mengambil keputusan yang lebih tepat.",
+        "author": "Mega Febriyanti",
+        "date": "2026-10-21",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/42_rekomendasi_pos_bakery.webp"
+    },
+    {
         "slug": "rekomendasi_pos_bakery",
         "dataCategory" : "tech & future trend",
         "title": "10 Rekomendasi POS Terbaik untuk Bakery",
