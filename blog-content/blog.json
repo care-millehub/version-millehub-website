@@ -1,5 +1,14 @@
 [
     {
+        "slug": "integrasi_edc_dan_qris_dinamis",
+        "dataCategory" : "tech & future trend",
+        "title": "Integrasi EDC dan QRIS Dinamis untuk Transaksi Bisnis yang Lebih Cepat dan Akurat",
+        "summary": "Manfaat integrasi EDC dan POS serta QRIS Dinamis untuk mempercepat pembayaran, mengurangi kesalahan input, meningkatkan akurasi transaksi, dan mempermudah rekonsiliasi bisnis.",
+        "author": "Linggi",
+        "date": "2026-10-30",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/44_integrasi_edc_dan_qris_dinamis.webp.webp"
+    },
+    {
         "slug": "menu_akhir_tahun_yang_laris",
         "dataCategory" : "business insight",
         "title": "Menu Akhir Tahun yang Laris Belum Tentu Menguntungkan: Cara F&B Menyusun Strategi Menu yang Tepat",
