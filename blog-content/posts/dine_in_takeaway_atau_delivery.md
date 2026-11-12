@@ -1,5 +1,5 @@
 
-![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/45_dinein_takeaway_atau_delivery..webp)
+![Gambar](https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/45_dinein_takeaway_atau_delivery.webp)
 
 Sebuah restoran bisa memiliki meja yang selalu terisi saat akhir pekan, menerima pesanan *takeaway* pada jam makan siang, sekaligus kebanjiran *order* dari aplikasi *delivery* pada malam hari. Sekilas, kondisi ini terlihat ideal. Semakin banyak *channel* penjualan yang dimiliki, semakin banyak pula peluang untuk menjangkau pelanggan. Namun, dibalik peningkatan transaksi tersebut, ada pertanyaan yang tidak kalah penting: apakah seluruh *channel* itu benar-benar memberikan hasil yang sepadan dengan biaya dan tenaga yang dikeluarkan?
 
