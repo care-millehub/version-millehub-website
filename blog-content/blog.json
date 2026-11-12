@@ -1,5 +1,14 @@
 [
     {
+        "slug": "dine_in_takeaway_atau_delivery",
+        "dataCategory" : "business insight",
+        "title": "Dine-in, Takeaway, atau Delivery? Cara Bisnis F&B Memilih Channel Penjualan yang Tepat",
+        "summary": "Dine-in, takeaway, atau delivery? Pelajari cara memilih channel penjualan bisnis F&B berdasarkan perilaku pelanggan, biaya operasional, dan potensi keuntungan.",
+        "author": "Mega Febriyanti",
+        "date": "2026-10-31",
+        "image": "https://raw.githubusercontent.com/care-millehub/version-millehub-website/main/blog-content/img/45_dinein_takeaway_atau_delivery.webp"
+    },
+    {
         "slug": "integrasi_edc_dan_qris_dinamis",
         "dataCategory" : "tech & future trend",
         "title": "Integrasi EDC dan QRIS Dinamis untuk Transaksi Bisnis yang Lebih Cepat dan Akurat",
